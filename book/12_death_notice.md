@@ -1,0 +1,38 @@
+DEATH NOTICE OF JOHANN KONRAD DAEHLER, 1897
+
+JOHANN KONRAD DAEHLER, 86, died at the home of
+his son, Supervisor Henry J. Daehler, in Fair Haven
+Township, on June 16, 1897, and was buried June 18th.
+Interment took place in their private burial ground at
+the old homestead, after which Rev. Muegge delivered
+the funeral sermon in the old Lutheran church, two miles
+west of Chadwick. A large congregation was in attendance.
+
+The deceased was born in the village of Freienseen,
+Hesse - Darmstadt, Germany, Feb. 6, 1811. In 1855 he with
+his family, consisting of his wife, two sons, and a daughter
+crossed the Atlantic for the United States and settled in
+Fair Haven Township, Carroll County, on the place where he
+has since lived and died in his old age.
+
+?
+
+While in Germany he followed the carpenter and
+millwright trades, but when he arrived in this country
+devoted his time to farming.
+
+He was one of the German pioneers of Black Oak
+and with a few others was one of the founders of the
+German St. Paul's Lutheran Church.
+
+Mr. Daehler was a good neighbor and was liked by
+everyone who knew hin.
+
+Nine years ago his wife passed beyond just a short
+while after they had celebrated their golden wedding.
+
+He leaves two sons, Henry J. and Louis C.-, _both.-of
+Fair Haven; a daughter, Mrs. Otto Immelt, who resides in
+Waterloo, Iowa; nineteen grandchildren; and sixteen great-
+grandchildren to mourn his loss beside a host of friends.
+73

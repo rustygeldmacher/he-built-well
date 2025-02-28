@@ -1,0 +1,831 @@
+EXPERIENCES IN AMERICA
+e
+* The railroad trip from New..York to Chicago was
+25 gulden per person. Christian Lutz, Georg Boning, Louis
+Streunagel, and others had emigrated with their families
+to America in 1852. Henry Berger, with his family, and
+Konrad Scheuermann, who was Single, had emigrated in 1845.
+
+Having arrived in New York on May 29, 1855, we
+spent the night there. On the 30th we went by rail to
+Albany, where we arrived on the morning of the 3lst.
+
+There were many people living in Albany who had emigrated
+from Freienseen in 1846, among them were my father's sis-
+ter, Maria Elisa, and her husband, Peter Bachmann, as well
+as my former journeyman, Johannes Rister and his family.
+
+I had the latter's address. Consequently I decided that
+we would stay in Albany a few days to get some rest and to
+get cleaned up.
+
+After we, together with our luggage, had been
+ferried across the Hudson, we stopped on the other shore
+in front of an inn, where we heard German spoken. . We
+stayed there. After I made further inquiry, it turned out
+that the innkeepers were the brothers Kreuter from Grunberg.
+In Germany they had been suspected of swindling all that
+they could lay their hands on from immigrants, therefore, I
+did not want to stay with them any longer. When my family
+and I were ready to leave, we were trailed by a group of
+about 50 other immigrants. They asked me if I would take
+some of them into the inn, which I did. We had breakfast
+there. I left our luggage with my family, and went to look
+for the home of Johannes Rister. I found only his wife and
+children home. He had gone to Illinois to see if he could
+find a place for them to settle in Carroll County, where
+they had friends. I soon located my aunt. We rented a
+small house in their neighborhood; as we had good accomoda-
+tions we stayed there for a few days. My aunt went to a
+bit of trouble for us. She arranged for transportation for
+us. We were picked up at the river and were taken to her
+home, where she gave a hand in helping us get organized.
+She also gave us the opportunity to do our laundry, helping
+with that as best she could.
+
+All in all, we were treated well and in a most
+friendly manner by our old friends: Johannes Moll, Pfarres
+Hannes, Henry Nonnenmacher, and N. N. Eckstein from
+Laudenbach.
+
+I, however, intended to go to Chicago, where my
+sister and her husband, Christian Lutz, with their family,
+had been living for two years. It was my intention to farm
+in the area west of that city. We left for the west by
+train on Sunday, June 4th. In this matter Konrad Michel, a
+son-in-law of Johannes Rister, helped us a great deal.
+Christian Bachman and Henry Berzel, for whom I paid the
+travel expenses, went with us. The trip at Niagara Falls,
+across the suspension bridge, was very slow; and we had to
+make do with improvised cattle cars, in which we could not
+even sit up properly. On frosty nights our teeth sometimes
+chattered. In this way we arrived on Friday, June 8th, in
+the city of Chicago, weary and tired. As it was already
+late in the afternoon, we found accommodations at the
+Schweitzer Heimat, a small guest house. Here I inquired
+about our relatives and friends, but we found no one who
+had ever heard of either George Boning or Christian Lutz.
+
+Anyway, no one knew anything about the Germans
+known to me, even though I had many acquaintances in town
+who had been living there for eight or nine years. I did
+know that many of them peddled lettuce and other vegeta-
+bles in the city. The next morning I said to myself, "To-
+day you are going to find them." After breakfast, I went
+outside, and walked down the street toward the bridge.
+Suddenly, as I came back from the bridge, there stood in
+front of me a girl holding a small basket filled with let-
+tuce. I recognized her at once as the daughter of Louis
+Streunagel, who had lived in our village. I asked her
+how much she charged for her lettuce, paid her the amount,
+and asked her to follow me. I told her who I was, but I
+think she had recognized me already. I told her that we
+had arrived the night before, and asked her to come to
+the place where we were staying. I would not let her go
+until she had told us where Christian Lutz or George
+
+Boning, or Konrad Daehler were living. "Oh, well," she
+replied, "we people from Freienseen live on the north
+side, not far apart from one another." So much the bet-
+
+ter! I soon arranged through the innkeeper for transpor-
+tation; and we moved our things to the home of my brother-
+in-law, Christian Lutz, on Clyburn Avenue. He worked in a
+cannery. He and his family were not living in that house
+but lived in another one near the cannery. Thus we were
+able to move into his other house and live there. Our
+next door neighbor happened to be my uncle and godfather,
+Konrad Daehler. A turner, Christian Meyer, had added to
+my uncle's home a workshop, where he did carpentry and
+made tables, beds, and chairs. Meyer had several cabinet
+maker journeymen; and he also gave Christian Bachman work
+for some time.
+
+Next I had to arrange for Henry Benzel's trip to
+St. Louis. Henry Weisel, a butcher, who was the boy's .
+uncle and godfather, lived there. The latter had promised
+to pay the travel expenses for the boy to St. Louis. I,
+however, had paid expenses to Chicago. I now wished reim-
+bursement; consequently, I prepared a bill for Henry
+Weisel, requesting payment of the 100 florin and 41 kreuzer
+58
+
+that I had advanced. Young Benzel had received 6 florin
+and 20 kreuzer from his father when we departed from
+Freienseen. Benzel's brother, Johannes, and a sister,
+Elizabeth, who had been living in Chicago for two years,
+took him in; and his brother even escorted him to St.
+Louis, bringing back for me from H. Weisel the money I
+had advanced.
+
+The small house owned by my brother-in-law that
+we had moved into was adeauate for a time as temporary
+quarters. It was not suited for a longer period of time
+as it had no kitchen. We had to put our stove outside;
+and that, be it in sunshine or rainy weather, proved a
+nuisance for the housewife who cooked. For the time be-
+ing we visited all our people from Freienseen. First we
+called on our friend, George Boning; and he did a great
+many things for us. For his business as a brick layer
+and plasterer, he had to have a one horse cart. This
+turned out fine for us. When we bought a stove, he
+brought it home for us in his cart. He also hauled some
+boards from a lumber yard for me. I used those to make
+beds, a table, and some benches. We needed some furni-
+ture as the house we lived in was empty. With these
+things I could arrange it so that we could enjoy some
+comfort for’the time being. During this time my wife
+and I decided that we did not care for city life. We
+wanted to have a more comfortable home of our own; and
+as I mentioned before, we had in mind a farm. We soon
+made up our minds not to stay to Chicago much longer.
+
+I had also bought a gun for a young man, Otto
+Immelt, who came from our village. He was working in
+Kankakee County for a farmer, a Yankee; and I wrote to
+him about this. The latter came to get the gun, and
+stayed with us for a few days. When he left, I went
+with him to look over the area and see if I should like
+it and find out if it were possible to buy land there.
+However, I did not like it. The land was too flat and
+swampy; everywhere was much water in the lowlands. It
+seemed to me unhealthy; perhaps even more prone to fever
+than Chicago. My sister and all her children had come
+down with fever. In Chicago I noticed that many adults
+warded off the fever by drinking brandy as the drinking
+water, which could be found at only an eight to ten
+foot depth, was very bad and had to be responsible for
+inducing the fever.
+
+The strange way of life in the big city
+hurriedly drove me to try to find a more suitable place
+for us. Because Henry Zugschwerdt had already highly
+praised his home in the area of Carroll County, I in-
+tended to look over that area too. Many people from
+the old homeland were supposed to have settled there and
+in the surrounding counties. The first thing I did now
+was to make plans to pay a visit to Henry Zugschwerdt in
+Carroll Co. He had given his address to George Boning
+when he had returned to Germany for a visit and had called
+on Boning. George Boning now decided that he would go
+along with me, and visit his old friends in that area.
+
+I liked this idea very much, so one fine morning
+we took the Illinois Central to Freeport, and went the
+rest of the way by stage coach, arriving at night. Boning
+knew that a shoemaker, Balzer Schreiner, a German from
+Vogelsberg, lived in Mt. Carroll. We looked the latter up;
+and he showed us an inn, where we stayed that night. Next
+morning, after breakfast, Schreiner returned. Since it was
+Sunday, he did not waste any time, but took us for a walk
+through town. He showed us the way to Black Oak Grove,
+where Henry Zugschwerdt was living. After much inquiry we
+found him living in a log house. Here we remained for a
+couple of days, and looked over the land in the neighbor-
+hood that was being offered for sale.
+
+Speculators had by this time already bought up
+every bit of federal land; and thusly, they were the
+sellers. In the area, particularly in the woods, several
+German families had settled. In a straight southerly di-
+rection and across from Franz Hinkel and Henry Zugschwerdt,
+was an eighty acre tract that belonged to George M. Schneider,
+a German who was single, and who was offering the land for
+sale again. This area I liked, partly because of the neigh-
+bors whom I knew. As Schneider was at that time in Mt.
+Morris, he had to be notified that a prospective buyer was
+here. George Boning wished to visit a friend, Johannes
+Muller, in Elkhorn; at any rate, we went down there one day.
+Zugschwerdt went along and actually showed us the way. The
+first acquaintance we met was Johannes Rister. He had helped
+to build a house for Peter Schreiner. Boning went to Muller's;
+and Rister took me to the home of George Henry Schreiner,
+where we had lunch. The latter was probably footing the bill
+for the construction of the home of his son, Peter. Here I
+found old friends from Sellenrod and the Schmidts; that is
+to say, Johannes Muller, blacksmith Hancort Rahn, Mrs. Rucke
+with her sons and daughters. Peter Muller, and the old
+Schmidt Hannes with his whole family. From here I sent a
+message to George M. Schneider through John Peter, whom I
+paid five dollars for this service, asking that he come on
+a certain day to Black Oak Grove to finalize the sale of his
+land. I believe that it was on the 5th or 6th of July that
+we got together at Henry Zugschwerdt's place; and I bought
+our present.place of eighty acres from G. M. Schnedier,
+whereby we agreed to register the deed in Mt. Carroll on the
+60
+
+16th of the month. For this Schneider brought along his
+father-in-law from Mt. Morris. The sale price was $460.00,
+cash.
+
+Since Zugschwerdt had offered that I could stay at
+his place and bring my family there with me, I returned to
+Chicago, leaving on Saturday, July 7th. I had hoped to
+arrive there during the evening to spend Sunday there, and
+then on Monday morning to move lock, stock, and barrel for
+Black Oak. My plans came to nought. In those days one had
+to go from Mt. Carroll by stage coach and then transfer to
+a train at Freeport. I arrived in Mt. Carroll too late to
+catch the stage coach. It was between eleven and twelve A.M.
+when I started to walk to Freeport; I arrived there at eight
+P.M. Hoping that I still would be able to surprise my family
+that same night, I went to the depot. I was told that it was
+Sunday and that there would be no train. I had to wait until
+the next evening. What could I do? There was no other way
+other than to accept fate and wait. I went to the inn where
+I had stayed once before and spent the night there. I waited
+all this time with great impatience. The next day was the
+longest Sunday that I have ever experienced. At nine P.M. I
+boarded the train to Chicago, and arrived there the next
+morning about four o'clock. Very quickly everything neces-
+sary was packed. Boning was most helpful; he took all of
+our household belongings, the stove and accessories, the two
+beds made from cottonwood, a table, a bench to sit on, and
+several other things, to the depot in his wagon. We departed
+from Chicago on July 9th. . By evening we were in Freeport,
+where we stayed overnight. Much to my good fortune, I found
+someone who took our things to Black Oak for eleven dollars.
+The following morning the household goods and the crates
+were loaded; and we went to Black Oak, where we arrived at
+Henry Zugschwerdt's place in the evening.
+
+Here we took up residence, living in the same log
+house in which he too was. living. We slept in the attic;
+our kitchen was outside; we ate in the living room. At the
+appointed time G. M. Schneider came from Mt. Morris; and we
+went to Mt. Carroll, where Esquire Harris drew up the sales
+agreement. At that time I paid Schneider.
+
+Now there was much work. We had to build, but we
+also had to grub as it had been definitely determined that
+we were going to farm. Christian Bachman followed us, and
+spent a whole year with us. We first went to the west side
+of our new property to grub and to clear seven and one-quar-
+teracres that Henry Zugschwerdt plowed in August with his
+breaking plow. I paid him twenty dollars for that.
+61
+
+When we started to build, using the German way or
+better yet, the Vogelsberg way, two stories so that we
+would save on roof construction. It was difficult to get
+lumber and shingles. We still had some fairly aged oak’
+logs. We began to hew them in square shape and to cut them
+into six inch timbers. The size of our building would have
+to depend on the amount of lumber we were able to find. It
+turned out that the building was to measure 24 feet long by
+13 feet wide. We three, our son, Henry, Christian Bachman,
+and I were long busy at this job for we had to do our own
+calking and chinking. There was no bricklaying as it was
+impossible to get any bricks. We spent almost two months
+doing the carpentry; it was the end of October before every-
+thing was done. A cellar was provided, but the house was
+set on oaken blocks. The windows I obtained from a sawmill
+company in Mt. Carroll; the lumber I got from Arvin, from
+whom Fritz Queckboerner had bought his land earlier, and who
+had built himself a shanty. From these I made roofing lum-
+ber and did the carpentry as long as the materials lasted.
+Roof shingles we got from the mill in Mt. Carroll.
+
+This time was one of the worst in my whole life
+because my wife as well as our son, Louis, came down with
+the ague. They were lying in the Zugschwerdt beds, or
+rather I should say, in the attic on sacks stuffed with
+straw. My wife was deathly ill. Daughter Wilhelmina
+cared for her; and John Hochstetter, who lived in Mt.
+Carroll, was our doctor. Louis was not as seriously ill,
+but his eyes were infected again; and that frightened me.
+Those were hard days while we were building. I always
+kept my eyes on the path that ran from our construction
+site to the Zugschwerdt log house. Any moment I thought
+I would see someone come to bring me terrible news.
+Providence was merciful; and with time things turned for
+the better. The fever did not leave my wife completely
+until May or June of the next year, 1856. In the late
+fall of 1855 Jacob Hartman took pity on us, and covered
+the walls with mortar made of straw and clay. Jacob
+Hartman was a bricklayer from Golzenheim, who had come
+across the ocean several weeks after us. He arrived in
+Black Oak at approximately the same time and was living
+in a log house with K. Hild. The weather was good for
+fall; and the mortar walls dried out well. We moved
+into the house on the 9th of November. Even the chimney
+had been constructed out of mortar with a board covering.
+We were happy to be in our new home even though it was
+in a sort of raw stage. For the winter it had to do.
+
+We had plenty of wood for heating purposes; in fact,. it
+had to be used to get it out of the way.
+62
+
+To return to the subject of Johannes Rister. -He,
+himself, worked in Elkhorn with his Vogelsberg acquaintances.
+His family had remained in Albany, N. Y. In the late summer '
+he brought them to Elkhorn, and they lived with Franz Hinkel,
+who was single at that time. Rister became a pious and re-
+ligious man as he had associated himself with the Brethren
+at Elkhorn. To demonstrate this, he sold me a cow for $30.00
+cash. I took the cow home and tried to milk her but found
+that was quite impossible because she kicked like the worst
+kind of horse. He tried to make me believe that his niece,
+the wife of Konrad Peter, had milked the cow for some time.
+
+I bought from the senior Henry Zugschwerdt a pair of old
+oxen and a still older wagon, so that we could enjoy a few
+rides. Both items cost me $110.00. In checking into this,
+I did find out, but too late, that he had overcharged me
+approximately $40.00. Well, I thought, there is nothing
+
+I can do about this now.
+
+We had moved into our winter quarters and now had
+to think about groceries for the months ahead. I got wheat
+from Werner Zugschwerdt in exchange for building him a new
+house. I also bought a hog, slaughtered, from Hamilton
+Sterns for six cents a pound. We had for the winter enough
+potatoes that we had acquired by working a potato field
+belonging to N. N. Conn. The meat did not last us through
+the winter so we had to buy more. We bought a quarter of
+an ox from the elder Zugschwerdt. The money we had brought
+with us from Germany now started to run short, and we had
+to think about earning some more. We had approximately
+700 to 800 dollars left, when we moved to Black Oak. The
+boys had made some money in the summer working in the
+threshing mills. In the fall they helped farmers with the
+harvest. We built the aforementioned log house for Werner
+Zugschwerdt the first winter. Luckily that first winter
+was not too severe. Furthermore, we built several new
+wooden sleds. Farmers brought us the wood that we cut and
+used to make the sleds. The first sled we built for our-
+selves; the second was built for N. N. Goldern, who paid
+$5.00 for it:
+
+So passed the first winter in our new homeland.
+Together with other residents of Black Oak like Anton
+Hinkel, the brothers Sylvester and George Wagner, and Karl
+Geldmacher, we took the first steps to become citizens.
+Spring wheat had to be sown on the seven and one-half
+acres of ploughed land. I purchased the seed from our
+neighbor, Dr. Stephenson, 15 bushels of it at $1.25 a bu-
+shel. We also cleared and grubbed an additional ten acres
+that were planted in June. Neighbor Hinkel had a piece of
+land that he wanted plowed, so we went together and bought
+a small plow. Each of us had a few oxen; and then we
+started. The first crop on those 74 acres was very bad.
+Weeds and brush had not yet decayed; we had plowed much
+63
+
+too late. We only got 374 bushels of wheat. The stand of
+wheat had not been tall. enough. Dr. Stephenson cut the
+wheat with his reaper, for which we helped him by tying his
+bundles. We had barely enough bread for now, but not for
+the entire year. So, again we had to buy wheat for seeding
+for the next year, 1857. This we bought from Adam Daggert.
+
+I had allotted to Johannes Rister a piece of land
+on the east side of our property, at his request. He was
+obliged to clear it for use for three years; and I was to
+attend to the fencing. There was not enough lumber to be
+used for that, so we had to find something to use in its
+place. We had provided fence posts enough, during the win-
+ter, to fence three sides of a forty acre tract. The rest,
+however, was lacking. I had seen, at Dr. Stephenson's, a
+wire fence placed. I thought it best that I also buy wire,
+but I did not have the money. Adam Daggert loaned me $100
+at 15%; and I went to Chicago and bought enough to put up
+a three wire fence. This fence did not do the job; the
+cattle kept breaking through; and the oxen which in those
+days roamed free at night, tore down the wire.
+
+Franz Hinkel wanted at this time to be rid of the
+Rister family. The latter, who had even less money than I,
+had no choice but to build a home. He came to me; and
+hauled onto the piece of land he was working, with my oxen,
+some oak logs. These he cut into timbers of from five to
+six inches as well as making necessary lumber for the roof,
+and the flooring. He did not have any shingles. His build-
+ing site was the southest corner of our land, where he re-
+mained for three years. In the meantime, his daughter, Anna
+Elisa, and her husband, K. Michel, had also arrived here;
+and they lived with them. Michel stayed’ one more year at
+this place. Rister bought 80 acres west of our property;
+and thus became our neighbor. He built a home and stables
+near the road.
+
+The winter of 1856-1857 was one of the worst I have
+ever seen. From beginning to end there was lots of snow, on
+top of which there was an icy crust of about three inches.
+
+If one needed fire wood and wanted to get it with the oxen,
+it took only three or four steps over the snow before all
+broke through and could not go any farther. As the cattle
+had no other protection than the piles of straw, and what
+
+was worse, did not get much feed, many of them died. Thomas
+Meier, for example, lost forty head. We lost both of our
+cows, each of which had cost thirty dollars. We did have a
+log-type barn for them and also slough hay, but there was no
+bedding straw as that was scarce this cold winter. Our oxen
+roamed the neighboring fields where they found corn stalks.
+We, ourselves, had not grown any corn. Because of our finan-
+cial situation we were not able to buy any. Yet when we used
+the oxen to work, we had to buy corn. Later we bought another
+64
+
+cow from Johannes Rister. I think it cost $32; and it was
+a good animal. The boys and I also built a house for Henry
+Traum, who paid us with a cow. That was in 1857.
+
+Now and then we earned a little, as for example,
+when we put a new roof on Franz Hinkel's log house or a
+shed, for which several timbers had to be split because
+they were too thick. That was in October, 1855. In the
+spring of 1856 we did some building for Adam Daggert. Also
+in the summer of 1856 we built for Werner Zugschwerdt the
+log house into which he and his brother, Henry, and Anton
+Hinkel, all three unmarried men, moved. Through the year
+we manged to get along, rather poorly, with cash earnings.
+One did not get to see much cash. People traded or ex-
+changed mutually, work for goods and vice versa.
+
+In the spring of 1857 Konrad Horst and his family
+arrived from Wohnfeld. They lived with us for several
+months, and then bought 40 acres southwest of Albrechts
+church. He felled several oaks at a place where our son,
+Henry, built him a little house, German style, from the
+limbs. He provided the beam construction himself. In
+Germany Horst had been a bricklayer. On the northeast cor-
+ner of this lot Horst's aged father was buried. In 1856,
+during July and August, we built for Henry Geisz a house
+from oak timber that had been logged on his land. In between
+times we worked at harvesting as long as it lasted. In Novem-
+ber, 1857, we built a new home for Konrad Rahn, a blacksmith
+in Elkhorn; we used forest timber. The home was for his
+tenants, Lust, basket weavers from Sellenrod; we were given
+a cow in payment. For the elder Henry Zugschwerdt we also
+built a new log house, for which we cut the timber.
+
+It was in that year, 1857, in November, that Philip
+Lang emigrated. He joined us and stayed with our family
+during that winter. They remained through the spring, when
+Lang and Kaspar Wagner from Einartshausen rented land from
+Werner Zugschwerdt. They built themselves their residence
+right there. For that purpose Lang had bought a few young
+oxen from N. N. Bentschick. In that year I bought a few
+oxen from N. N. Snow. They had been used by a man named
+Dickenson, who had worked for Snow. The latter was not
+present personally as he lived in Ohio. Dickenson plowed
+the 80 acre tract of land on Snow's behalf. This was lo-
+cated near the Fair Haven school house and was purchased in
+the 1860's by Konrad Sack. The oxen cost about 80 dollars.
+I can not remember the exact amount as they were not yet
+half paid for. Snow, in addition, owned a piece of forest
+land, of which eighty acres were to be fenced. Dickenson
+asked me for rails and posts, which were to be made on lo-
+cation. After that I was supposed to fence in the area.
+I promised that the boys and I would attend to the matter.
+65
+
+I intended to pay for the oxen in this manner. I must have
+worked off fifty dollars of the debt this way when there
+was a rumor that Dickenson had disappeared suddenly. At
+this my heart fell, like into my shoes. Shortly afterward,
+Snow appeared on the scene. When I wanted to pay for the
+oxen through my work on the fence, he turned me down, say-
+ing that he too had lost a great deal through Dickenson.
+
+He said that he could not get any thing from Dickenson and
+would have to take over that 80 acre tract of land at a
+loss if he were not to lose everything. So, what could I
+do? Snow deferred payment until I could pay, but of course
+not without interest. T went sadly on my way. For me that
+was a costly experience.
+
+At the beginning of the winter of 1858, Philip
+Lang bought forty acres from Snow. The land bordered our
+property on the east side and was a part of the school
+land. He paid eight dollars an acre. On this he wanted
+to build a house and live there himself. He did not have
+any money other than the $30 his father had sent him from
+Germany in March. We neighbors got Lang to take us to
+Savanna one day; and for that $30 we bought boards, two by
+fours, shingles, and windows, as much of these items as we
+could get for the money that we had. Thresholds and the
+thicker lumber my boys and I cut from oak trunks. We built
+from all this a little house, 14 feet by 16 feet. I pro-
+vided my own food during the building, but later on re-
+ceived $5.00 wages. I had promised to build the house; and
+I kept my word even though. he turned out not to be my friend
+and called me incredible names. At one time I had given
+Lang about ten bushels of potatoes aS a gift. When he used
+them up he wanted more, put I could not let him have any
+more. I had taken several sacks full of them to Mt. Carroll
+to a store to pay a debt, the groceries that I had used
+during the winter. He became furious with me! He told
+about me all kinds of things; none of which were true.
+Still, I finished his house for him so that he could live
+there. Later we became friends once more. In years there-
+after this pattern repeated itself frequently when not
+every thing went according to his wishes.
+
+In April, 1858, Henry Hoffman came from Freienseen
+with his wife and seven year old son; they stayed with us
+during the summer. He had already spent a year in Blue Is-
+land, I1l., where he contracted a fever and had great diffi-
+culty getting cured. Two weeks after the arrival of Hoffman,
+N. N. Bissel arrived with his family. They had been sent to
+us by my brother-in-law, Christian Lutz, from Chicago. Thus
+we had two other families to room and board. The latter
+family, however, l kept for only three weeks. I made a bed
+for them from oak limbs and found a log house for them to
+rent in Burr Oak. To Hoffman I gave some land and some seed
+potatoes that he cultivated that summer. He had a good crop.
+When the harves*
+across the road
+
+square. I ask:
+him I could bu
+replied. I to
+
+roof and walls
+of building ma
+ing prairie an
+12 x 14. It w
+but I could co
+Since the hous
+suggested to fF
+have your wife
+you can put it
+Hoffman, as we
+he could make
+they would. I
+land, on which
+four years. H
+home. In thos
+ing ours, livi
+Rister, who in
+Konrad Michel,
+Bast. Bast liv
+and was a blac!
+x 16, from lum)
+purpose,
+
+Previ:
+schwerdt. Whi
+On June 6, 1855
+and buildings
+in which Bast a
+were competely
+if I would pern
+had rented an a
+buildings. He
+that day he die
+bought from his
+for my son, Hen
+
+Elisa, born Zug
+
+their daughter,
+
+The storm of June 6,
+that the top hal?
+say the part above
+blown away along
+
+from Franz Hinkel.
+
+{ him a small house.
+
+‘ials.
+‘athered enough oak timber to make a house,
+
+66
+
+was over, I dug a cellar for him right
+It measured ten feet
+him how much money he had left, and told
+He had only $13, he
+him that that would cover the cost of a
+We went to Savanna and bought $13 worth
+Then we went out to the neighbor-
+
+enclosed all around with rough boards,
+only about half the roof with Shingles.
+as the usual post and beam German way, I
+"If you want to live in a warm place,
+1 her spare time, make the mortar and
+the walls yourself." Incidentally,
+1 too, had to try and find work so that’
+2 money. Things went on as I thought
+ated to him one and one-half acres of
+and his family must have remained for
+daughter, Maria, was born in that little
+LyS there were three families, not count-
+‘n our land: Henry Hoffman's; Johannes
+‘ition to his family had his son-in-law,
+‘ his wife living with them; and John
+along the road of our northest corner
+th. I had also built him a house, 14
+he had purchased in Savanna for that
+
+‘y Bast had lived with the elder Zug-
+here he also had a blacksmith shop.
+. tornado struck and blew down trees
+‘lack Oak. Zugschwerdt's log house,
+his wife lived, as well as the smithy
+lished. Consequently, he asked me
+him to live on our land, on which he
+» until he could construct some new
+ed there until May 20, 1862; at noon
+‘f consumption. The following year I
+dow the buildings and blacksmith tools
+Henry lived there with his wife,
+owerdt, who died in giving birth to
+Lisa, in March, 1865.
+
+1858, had been so terrible
+of Zugschwerdt's log house, that is to
+the first story, with the roof, was
+
+with all the household goods inside.
+
+Crates with clothing in them were found one and a quarter
+
+miles away.
+
+The roof and the upper story were ten rods
+
+away from the house that was still Standing. I had just
+built for Joost from rough timber on his land the house
+that is now, in 1886, owned by Adam Kohler. It was
+
+finished on Saturday and he was planning to move in on
+67
+
+Monday. On that same morning everything had been blown
+away by the storm of: the day before. We found the shredded
+and torn apart pieces scattered over a wide area. Karl
+Geldmacher lived in a house made from boards. This was
+toppled and blown about by the storm while he and his
+family were still inside. As a result he was injured,
+breaking his collar bone and being paralyzed for over a
+year. These details are only examples.
+
+I will now tell something about the Germans
+living within a distance of three or four miles of our
+neighborhood. Some of them we had met when we arrived
+here; and many of them were people from Darmstadt in
+Upper Hesse. Henry Zugschwerdt had a family composed of
+two sons, Werner and Henry Jr., and three daughters, the
+eldest of whom was married. Next door to his farm was
+Franz Hinkel, a West Prussian, in those days still single,
+on his farm. Those two were our next door neighbors. Two
+miles away from us was Konrad Geisz and his family on a 40
+acre tract of land that was still forested. Three quarter
+miles to the west lived Konrad Hild and his half-brother,
+Johannes Dietz, and their families. All three families
+were from Ermenrod. Five miles northwest lived Adam
+Daggert with his family as well as the widow Klein, who
+lived not far from Dietz, with her family and her single
+half-brother, Henry Weitzen. The latter and Daggert came
+from around Alsfeld. Not far from Hild, Karl Schreiner
+had located; he had come from Feldkrucke. N. N. Joost
+from Ulrichstein and the aforementioned Jacob Hartman from
+Golzenheim lived near Konrad Keil from Feldkrucke and
+Ferdinand Ruppel, who came from near Alsfeld. Two miles
+southwest lived his half-brother, Eberhard Pflug. Two
+miles to the south were Konrad Seim from Sellenrod;
+
+Konrad Friedrich, who was single; Johannes Friedrich, with
+his wife, born Eckhard; and Henry Diehl, all from Rupperts-
+burg. Diehl had a family; his wife was a daughter of the
+elder Henry Zugschwerdt, who had made already seven trips
+by sea. These people from Ruppertsburg all had crossed the
+ocean with Zugschwerdt at one time or another. He had
+brought them to this area because he had settled here
+earlier; consequently, they had come here before us.
+
+Christian Bachman had come here with us, and had
+lived with us for one year. Philip Lang had also come with
+us across the sea, but had gone first to Pittsburgh as a
+locksmith. There he had been unable to support his family;
+through our correspondence, he came here. Lang's home in
+Germany had been Babenhausen. When we had been here a few
+days Karl Geldmacher came with his family, accompanied by
+his brother-in-law, Fritz Queckboerner, who also had his
+family with him. They came here from New York, where they
+had been tailors; and settled three miles west of us. A
+68
+
+brother of the latter, Phillip Queckboerner, a native of
+Atzenheim and single, had come with us across the ocean
+and had made his home close to us, a little to the south.
+A number of people had come from Wurttemburg; among them
+were the two brothers, Sylvester and George Wagner, and
+A. A. Haag, who had settled in the area. These are the
+Germans we met, with the exception of the Pennsylvania
+Germans, who lived a little further south. They still
+live in Fair Haven Township. Hild, Daggert, and Schreiner
+live in Salem Township, where later on settled people who
+had come from Vogelsberg, Einartshausen, and the villages
+of Grunberg, Waiterschein, etc. Also Merbodt from the
+Schmitte as well as some Prussians settled in that area.
+In 1856 Henry Geisz and Johannes Eisfeller came with
+their families from Ermenrod and settled at Black Oak.
+Philip Birkenstock had come without his family; however,
+he was able to provide them a home, so after two years
+they came from Wohnfeld.
+
+As concerns the native Yankees, they avoided
+clearing the woodlands, so only two or three of them
+became our neighbors. Anyway the Yankees are not very
+numerous in our township; those who came settled on the
+prairies. Several Pennsylvania German families were then
+and are now living in our township. These Pennsylvanians,
+whose ancestors came during the War for Independence, in
+part from Hesse, in part from Wurttemburg, are peculiar
+in that they still hold today German language and custom.
+The language is mostly Wurttemburger in dialect. In many
+counties in Pennsylvania, for example, in the City. of
+Reading in Berks County, German was still spoken in the
+public schools in the 1850's. In Mt. Carroll Seminary
+there was from 1858 until 1861 a professor, Paul Lorenzen,
+born in Holstein, who taught literature and geology. Com-
+ing from an old clerical family, he had held a ministry
+himself, but in 1844, because of his ideas, he brought his
+free thinking family, father, brothers, and sisters to
+Davenport, Iowa. Our Paul later went to Pennsylvania and
+married a widow in Reading. After that he returned, going
+to Mt. Carroll as a professor. He came to preach to us at
+Black Oak every two weeks on Sunday, beginning in 1859.
+With this I must mention that although his wife was a
+native American, she could not speak English, only German.
+
+For the German settler one of the first things
+was to get himself a home, even if he did not have any
+cash. Since the land had been bought by speculators, they
+were able to make huge profit. These Germans were what
+these speculators with land and a desire to make money
+were looking for. Hence they sold 40 acres to one, 80
+acres to another, according to the buyer's wishes, at ten
+to twelve dollars an acre at the rate of ten to fifteen
+69
+
+per cent interest. Our Germans were, however, good workers.
+In clearing the land and in farming, they could usually by
+the time they had been here the second year raise a crop of
+wheat. They-.did need another source of income to make ends
+meet until then. Also they had to pay for the first plowing
+of the grubbed land; this was done by a man who had a large
+plow and a team of oxen and had made this work his business.
+He charged three or four dollars to plow an acre of land.
+
+In the end diligence won out. In clearing away the brush,
+the immigrants helped one another mutually; for depending
+on whether the brush was tall or short, there was a charge
+of from three to ten dollars to clear an acre. There was
+also a difference depending on whether the ground were flat,
+rocky, or swampy. On those occasions the skill that I had
+learned in Germany as a surveyor and had brought with me to
+my new homeland came again into respect and use. I surveyed
+the cleared and plowed properties for those interested in
+having this done; it served to protect them from litigation.
+I received a small remuneration for this. Whoever did not
+have the funds to pay, and there were very few who did,
+worked for me in return.
+
+NOTE: Here abruptly ends the narrative. Why did
+Johann Konrad Daehler stop? What interrupted him? We can
+only speculate, but we can say, with Albert H. Daehler,
+that he had written as he had built -- well!
+
+Louis A. Daehler
+
+TABLE OF APPROXIMATE EQUIVALENTS FOR MEASUREMENTS USED
+IN THE TEXT
+
+cord = a stack of wood 4 ft. high by 4 ft. wide by
+8 ft. long
+
+florin = 1 dollar and 60 cents
+
+gulden = 48 cents
+
+heller = 1/8 cent
+
+kreuzer = % cent
+
+lothen = 1/3 ounce
+
+morgen = ,63]1 acres
+
+ohm = 40 gallons
+
+Yu = reamur; 30 r. = 103 degrees
+
+simmer = 9/10 bushels
+Lt.
+
+II.
+
+70

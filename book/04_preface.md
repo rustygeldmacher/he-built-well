@@ -1,0 +1,85 @@
+PREFACE
+
+On a warm, sunny day in June, 1897, we walked,
+we Daehlers, along a woodland path that wound among the
+trees, over a little plank bridge, and up to a clearing
+at the top of a hill. Here a company of friends, many
+of them from far away, were gathered to pay last honor
+to him whose body we were that day committing to the
+earth. On our way we had passed the vineyard that he
+had planted and tended, and the little rustic seats that
+he had made under the trees.
+
+The minister said the solemn words of the bur-
+ial service; and as the casket descended, the assembled
+company sang one more good last hymn: EIN FESTE BURG IST
+UNSER GOTT. As the rich German voices echoed against the
+wall of forest trees about the clearing, the noble words
+and the incomparable music of the hymn seemed to give
+assurance that all was well. For like his ancestors be-
+fore him, Johann Konrad Daehler was a builder; and his
+building was good.
+
+Often my mother had spoken of a manuscript that
+Grandfather was supposed to have left, an auobiography.
+Often we had wondered what might have become of it. It
+was not until some time in 1925, twenty-eight years after
+his death, that his granddaughter, my cousin, Dorothea
+Smith, found it in a box among some miscellaneous things
+in a barn. Dora sent the manuscript, consisting of two
+red covered notebooks, to me in Colorado Springs. I at
+once put it into typescript, and sent copies back to
+Illinois, where they were circulated among those who were
+interested.
+
+Now that another generation of descendants is
+growing up, most of whom do not read German readily, it
+seems desirable that an English translation should be
+prepared. For this reason I have undertaken the task.
+
+But there is another motive: it has been fascinating work.
+Part of my interest naturally is grounded in a sentiment
+of love and respect for the memory of my grandfather. In
+addition there is the interest in what now may be regarded
+as a first hand historical document. The many technical
+problems that have arisen in the work of translation have
+been a constant and inspiring challenge to my quite
+inadequate knowledge and skill.
+
+Obviously the translation has many faults. The
+best I can claim for it is that I have tried to be faith-
+ful to the letter and to the spirit of the original. I
+have taken few liberties with the text. Obvious mis-
+spellings I have corrected, always noting the original.
+Grandfather's manuscript is convincing testimony of the
+older systems of pedagogy. He was often beaten, he says,
+for poor handwriting, but never for orthography; and he
+misspells orthography! His handscript at age seventy-
+two was like copper plate, and is clear and legible
+after fifty years. The punctuation of course had to be
+brought into conformity with English syntax. I have
+sought to render the simplicity and honesty of the
+original text. What interest there is in the text is
+owing to the character and intelligence of the author;
+the weaknesses I fear must be attributed to the trans-
+lator.
+
+Colorado, Springs, Colo.
+Dec. 1, 1939 Albert H. Daehler
+
+NOTE:
+
+The autobiography and translation have remained
+in manuscript form all these years. Albert H. Daehler
+did present a copy of the English translation to the
+library of the National Carl Schurz Association in
+Philadelphia. In 1944 that organization published two
+extracts from it in their bi-monthly periodical, THE
+AMERICAN GERMAN REVIEW. The August, 1944, selection
+(Vol. X, pp. 28-9) deals with the trip to and the
+arrival in the United States. The October, 1944,
+selection (Vol. XI, pp. 26-9) describes the difficulties
+that faced the pioneers in settling in Fair Haven Town-
+ship, Carroll County, Illinois. Both articles appeared
+under the title: THE KIND OF STUFF THAT MADE AMERICA
+WHAT IT IS TODAY.

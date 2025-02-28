@@ -1,0 +1,92 @@
+EMIGRATION
+
+On April 20, 1855,°in the evening, after sundown,
+we took the first important and definite step for emigra-
+tion from our dear homeland into a world known only from
+hearsay. We did so with the greatest confidence in Provi-
+dence, Who had manifested Himself repeatedly in the course
+of my life as a Guardian Spirit of Protection; and I ac-
+knowledge this gratefully. We; my son, Louis, who was 13,
+my daughter, who was 11, and I; together with our relative,
+Henry Benzel, age 14, went to Laubach, where we spent the
+night at the Sose Inn, which was owned by Johann Seitz.
+My wife and our son, Henry, age 16, left a week before to
+visit relatives in Ginheim, near Frankfurt. On April 21st,
+in the morning I called on Dr. Steinmetz one more time to
+say good bye to him for good. Then we took the stage coach
+to Friedberg; there we boarded the train that carried us to
+Frankfurt. We arrived and proceeded to the homes of rela-
+tives. The following week we went to Maintz. I entered
+into an agreement with a neighbor, J. K. Hoffmann, a man
+who hired out to do hauling, and with Christian Bachman,
+who had to escort the load, to bring our luggage to Mainz.
+
+We with our luggage were put on board a steamship
+on the 23rd to begin the trip down the Rhine. At the dock
+an already fairly large group of emigrants had gathered.
+The trip down the Rhine went fairly well. At noon we stopped
+at Cologne, and stayed over night in an inn in Rotterdam.
+From there we sailed across the Channel to London; there was
+great misery among the passengers due to sea sickness. The
+Channel was turbulent; sea sickness struck without finding
+much resistance; yet we all arrived well but very weakened
+and lame in London.
+
+Arriving at one of those travelers hotels, one
+would have liked to lie down and get some sleep; but after
+drinking a cup of coffee, we were driven like a herd of
+sheep to the harbor where we had to board the sailing ship
+that was to take us to New York. It happened to be low
+tide, and we stumbled through the mud to reach a 16 foot
+long ladder that was our means to climb aboard our ship,
+where we spent the night. I no longer remember the name of
+the ship. A great many necessities were still to be brought
+aboard since, according to our travel contract, we were re-
+ceiving only partial board. There were thus many things
+that we still intended to buy for the voyage; e.g., potatoes,
+eggs, hams, and straw filled mattresses. The partial board
+that we were to get we learned consisted of tea, sugar,
+zweiback, and drinking water. We were given so much of the
+latter that we used it for cooking too. We had taken along
+55
+
+for housekeeping much foodstuff: zweiback, meat, wurst,
+sauerkraut, peas, coffee, eggs, cheese, butter, condensed
+milk, wine, and rum; in fact, we had so much that we did
+not have to buy any of the stores delivered to the ship.
+I did buy potatoes in London harbor. There were several
+hundred passengers; perhaps three hundred of them were
+German; the rest were Irish, French, Swiss, Italian, and
+two Chinese men.
+
+The first week the voyage went quite well; the
+wind was always favorable. The second week it was alter-
+nately stormy or calm. After having spent thirty days
+aboard we sighted the coast of New York. It was the Mon-
+day of Pentecost, and was becoming dark as our ship
+entered New York harbor. We spent that night on board.
+The captain of our ship, Braddish, was an American who
+favored the Germans a great deal. We awarded him a cer-
+tificate of appreciation for our good treatment. Next
+morning, May 29th, we disembarked, went into New York
+City, and took lodging in a guest house at 78 Greenwich
+Street; our landlord was Joseph Strebel, a German from
+Worms. Our luggage, for which I had paid transportation
+from London to Albany, was loaded onto a boat and brought
+to a railroad depot along the Hudson River. The guest
+house in which we had stayed was so over crowded that not
+everyone had a place to sleep. The innkeeper showed him-
+self quite intelligent on this occasion; he gave several
+kegs of beer to the young men so that they drank and sang
+all night. Unfortunately we who had beds could not get
+any sleep either.
+
+With this my life in Europe is ended. The con-
+tinuation will be of my experiences in America.
+
+NOTE: Research notes left by Albert H. Daehler state
+that the name of the vessel was the ASHBURTON. She was
+an American vessel, registered at about 1,020 tons; and
+carried 446 passengers. Also on board was cargo con-
+signed to C. Grinnell.
+56

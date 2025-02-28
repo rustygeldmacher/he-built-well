@@ -1,0 +1,469 @@
+CHILDHOOD
+
+In the village of Freienseen, near Laubach, in
+the Grand Duchy of Hesse-Darmstadt, Germany, I was born
+the sixty of February, 1811, as an illegitimate child.
+My mother was the daughter of the master tailor Heinrich
+Benzel and his wife, Margretha. My father was the son
+of the master carpenter Jacob Daehler; he was named
+Johann Kurt Daehler.
+
+My father was by summer a carpenter, and in the
+winter time a wood cutter in the count's forest. Here
+many hundred cords of word were made into charcoal for
+the smelter works at Friedrichschutte, near Laubach.
+This wood had to be restacked during the summer so that
+it would be usable for the coaler to put on the wood
+pile. There was extra income for the workers who, in
+those days of Napoleon and his wars, were unable to find
+work at their trade. Thus it was for my father. He re-
+ceived twelve kreuzer for each cord of wood restacked.
+From this income he would give his parents, with whom he
+lived, three gulden; and the rest he spent on his little
+son and his son's mother.
+
+I did not find out that I was born illegitimate
+until I was seven or eight years old, and could read and
+write. By accident I found papers in a box of my father's.
+Among them was a receipt from the treasurer of the parish
+about the payment of bhres gulden fine for this offense
+against the church.
+
+Apparently, according to his notations, Father paid
+for his military situation. Whether or not his name was to
+be taken off the list of recruits was to be decided by two
+delegates of the county government; they determined whether
+or not he could be exempt. At that time every young man,
+up to his twenty-sixth year of age, had to appear once a
+year on a certain date at his county seat for re-enlistment.
+Only those not needed at home had to become soldiers; and
+those who were needed could return home, but had to appear
+again next year.
+
+Judging my father's character, he must have arranged
+his marriage with facility because I do not remember my
+parents' marriage ceremony or wedding; and I do have mem-
+ories that go back further than my second year. From then
+on I know only that we lived together: Father, Mother, and
+I, with grandfather Benzel. My grandmother Benzel had died
+when I was two years old; that I remember very well.
+
+I grew up a very high spirited and happy boy. After
+I passed my fourth and started my fifth year, this wantoness
+was Slowed down by the school and by the spinning wheel with
+which cottom was spun. I had to try to earn my bread by spin-
+ning cottom; this was fun at the beginning. As soon as I
+developed some ability, Mother increased the quantity of
+yarn to be delivered. Because of this compulsion, spinning
+sometimes became a nuisance, especially when I heard other
+children sled riding or playing at other things. Often
+different means of encouragement to spin were sought. For
+instance, I could take my wheel into a neighbor's house
+and spin in the company of several boys and girls; even
+though sometimes, as it is with children, spinning would
+be forgotten for a game. Then I could not accomplish my
+task in time, so I would either feel the switch or was not
+allowed to go ‘to bed before accomplishing my work. Also
+my lessons for school had to be learned. Had I been busy
+during the day, in the evening I was allowed to visit my
+friends and have fun.
+
+On the other hand, my father was more strict con-
+cerning my lessons for school than my mother was about my
+spinning. He was proud that his son was, in general, an
+outstanding, eager pupil. He probably took a lesson from
+his own school life, for he did not attend school regularly.
+Therefore he could neither read nor figure well; only the
+reading of printed writing went fairly well for him.
+
+During the summer the variety of my occupations
+was more than I liked. The spinning could not be stopped
+since it helped to supply domestic needs. Since at meal
+time the food had to be cooked, one needed firewood. Several
+days of the week were set aside to gather wood in the count's
+forest and carry it home; this I also liked to do in company.
+Very often Mother went with us, as this was not looked upon
+as theft. When one was caught by the forester, one sometimes
+would be reprimanded and other times not. The degree of
+punishment for my small load of wood was: for the value of
+the wood, 3 kreuzer; for getting caught, to the forest
+warden went 10 kreuzer; making a punishment of 13 kreuzer.
+‘There is no doubt that I was caught about once a year. If
+we boys climbed up in the trees and knocked down the dry
+wood, we would be punished more severely. If one were
+caught and held by the forester, he would be treated to an
+additional whipping as a warning. I learned the saying
+"far away is good for the shot."" I did not wait for him
+even though sometime I had to leave my wood behind.
+
+Furthermore Father had bought a goat so that we
+would have the necessary milk. Butter we did not need. For
+this goat I had to supply the necessary summer feed. Every
+day in the evening I would gather in a basket as heavy as I
+was able to carry greens and branches from hedges and those
+places where no property owner would suffer damage.
+
+All this happened after school hours. The division
+of the day was as follows: in the morning from seven to
+ten o'clock - school; from ten to five o'clock in the
+afternoon - get wood. two or three times; from five to
+seven o'clock - get feed and feed the goat; then one
+hour of rest; and finally, before going to bed, memori-
+zing for school such things as Bible verses and the
+small catechism by Luther. A task of writing and figur-
+ing had to be taken care of in the morning before school.
+Writing and figuring were much fun, but I did not have
+enough help at home to learn easily. When the teacher
+reviewed my writing books, I often received punishment
+for not writing neatly. Punishment would consist of a
+whipping, or one had to hold out his hands. The teacher
+would then hit with the suitable ruler three or four times
+in the flat of the hand, changing from right to left.
+
+I never received a whipping because of poor spell-
+ing; spelling I found fairly easy. For figuring, however,
+I had a special talent; and this was increased by my father
+in a special way. He could not read or figure well, but he
+had found out that a neighbor owned an arithmetic book by
+which one could learn figuring through self study. The
+author was Z. P. Lechner. This book Father obtained through
+purchase. When he came home from work in the evening, he
+usually would busy himself until midnight studying this
+book; and he succeeded well enough to become my teacher.
+
+The school teacher was no Pythagoras and no magi-
+cian in arithmetic. He found himself checkmated against me
+in this respect. When I once asked him for an explanation
+of an arithmetic problem, he said to me that he could not
+figure that out himself. The text out of which he trans-
+ferred problems to the student's papers showed only the
+problem and the answer; the main thing, the method itself,
+was not there. His entire arithmetic method was to the
+rule of three and referred itself to business interest and
+bills of exchange. I would have liked to have known more
+about all arithmetic methods, but my father's Lechner did
+the same thing.
+
+When I was six and one-half years old in the year
+1817, our family was enlarged by a pair of twins: my
+brother, Johannes; and my sister, Katharina. The first of
+these died of dysentery when he was nine months old.
+
+Now came the time when my mother's brother, who
+was my godfather, wanted to marry. This involved an apart-
+ment for the couple. My grandfather, Heinrich Benzel, to
+help this matter along, fixed a price for his dwelling,
+which included a stable and a small garden. He turned this
+over to his two children, who had to draw lots. The lots
+brought the son the home for my grandfather's price.
+Now our family was without a home, but my father
+soon found a splendid opportunity for a new home. In the
+center of the village the widow of Martin Immelt, a shoe-
+maker, with two grown children, had a home. One half of
+it was dwelling house and the other half a barn. She was
+so much in debt and without money to pay interest that the
+home was sold by forced auction. As no buyer was found,
+the mortgage holder, Johannes Jung, a baker, took it as
+his property. Some time later it was offered to my father
+to buy by the new owner. He took it as a dwelling for his
+family. Father could only pay part of the price as a down
+payment; the rest remained as capital held by the creditor.
+We then annually, on St. Martin's day, paid the interest
+of five per cent. The new home, before we could move in,
+had to undergo repairs, which, under the circumstances, put
+my father to great expense.
+
+Under these circumstances so many February sixths
+went by that I soon had my twelfth birthday, at which time
+I received praise for being an eager pupil. The boy had
+not lost much of his high spirits in spite of the fact that
+he had sat like he were tied to the spinning wheel and was
+then allowed to have fun with the other youths at the usual
+playgounds. Here I felt like the devil had broken the chains.
+
+Here I will go back a little and tell a suitable
+story. My twin brother and sister were about two months old,
+lying in their cradle in the evening sleeping. My mother
+was outside at the well or busy somewhere else. I, who had
+to rock the cradle, became extraordinarily impatient and
+rocked so hard back and forth, or up and down, that the
+cradle turned over and its appurtenances were on top of them.
+Now the worry about the little twins, and even more about the
+whipping which followed such an act regularly, caused me to
+cry. This reached my mother's ears, and she came running in.
+As she worked the little ones out, it was discovered that
+they had been protected by the feather bed that served as a
+cover and there was not the slightest injury to the twins.
+Mother threatened that when Father came home from work on
+Saturday, I would be punished. This was for me a very sor-
+rowful week, but Father was very kind and happy when he came
+home and found his family well. How could he punish me then?
+In spite of this, I was used to, after receiving a whipping
+at school and he had learned of it, receiving another one
+when I arrived home.
+
+My punishment did not relate to neglecting my
+lessons, but rather to not being quiet or to some boyish
+tricks. Since our school had a heavy enrollment, sometimes
+as many as 180 pupils, our teacher had a lot of work. My
+humble self was employed by the latter as a helper. This
+was an advantage to me because it impelled a more serious mood.
+
+My father made, during winter evening, those little
+machines with which to spin cotton, for others to buy. I had
+learned enough to be of help to him, and could make ready,
+without his supervision, the small spindles necessary for
+those machines. Those wore out easily and often broke
+while spinning. I soon found this a steady occupation that
+freed me from the distasteful spinning. During the summer ,
+when not as much spinning was done as during the winter, I
+was not fully occupied. However, so as not to be chained
+to the spinning wheel and to fill in the space between
+school hours and the gathering of firewood, I soon found
+another opportunity. I had made a spray gun that the bee
+keepers used to spray water on swarming bees. This instru-
+ment was liked by the boys in the village; therefore, many
+orders for them were made. I built one fifteen to sixteen
+inches long; this earned for me from six to eight kreuzer.
+
+Each time, while drilling a three quarter inch hole,
+
+I broke out in a sweat. I sometimes drilled crooked or side-
+ways; then new material had to be sought and the work started
+over. This did not discourage me. I soon found another piece
+
+of wood as an ordinary beech tree branch was suitable for this.
+Work went on through one summer. Then there were fights among
+the boys, splashing one another with water. Parents did not
+look at this fun as being good any longer; and this brought
+about the end of my industrial branch. Sometimes things
+happen in this world that lead to trouble on one side but
+
+on the opposite side bear many benefits. So it went with me.
+
+In our village there were many old houses that had
+chimneys or smoke stacks framed out of wood and covered with
+straw and clay on the fire side; some were so covered on both
+Sides. It happened that a county administrative official,
+‘named Scheurermann, made his annual trip for general visita-
+tion and inspected all the chimneys. They appeared to him to
+be fire hazards, even though some were from two to three hun-
+dred years old. He issued a new order that by a certain date
+all of the old wooden chimneys were to be replaced by new
+ones made of raw.clay brick on the inside and also on the
+outside above the roof. Formerly that part had been made
+of straw or baked clay.
+
+These mentioned dwellings were mostly in the pos-
+session of underpriviledged people. The proposed changes
+caused them many worries. Many of them were poor farm
+people; and they did not always own their own dwelling but
+rather lived there as tenants.
+
+By the clay pits was started the fabrication of the
+bricks, with dimensions four inches by eight inches and two
+inches thick. I noticed this and thought that there could
+be wages for me there. I did not want to spin any longer. I
+asked my parents for their permission to do this. To my
+pleasure they agreed. A wheelbarrow and shovel were borrowed.
+The forms I made myself. Many of the boys of my age started
+this kind of work, whereby we became involved in a competi-
+tion. We formed a company, and supplied those on the build-
+ing site at the cost of ten kreuzer per one hundred bricks.
+
+No one was permitted to request less money. On that we had
+agreed. A dairyman, Johannes Hauffman, gave me my loads of
+straw without my having to pay him cash; while I, for in-
+stance, on rainy days repaired for him ladders or dung
+boards or other things that were faulty.
+
+To bring improvement to the fabric of the plant I
+made myself a double form so that each stroke brought two
+bricks instead of one as before. Every one of them wanted
+to have such a form. This work fell upon me. I received
+12 kreuzer for each form. The worst part of our work was
+to get the final material to mix with the clay, the waste
+of the broken flax or barley straw. We. were even forced
+to gather the needles of the fir trees or of other pine
+tress and mix them in.
+
+In spite of all of this work, school was not missed
+by anyone. Perhaps there would have been some who would
+have been tempted to stay out of school had there not been a
+whipping by the teacher to be expected. The teacher, how-
+ever, was inclined to protect our work; and no pupil was
+allowed to damage our projects even in mischief. Our teacher
+was named Daniel Volkmar; and in his youth he had learned the
+tailor trade. The teaching position had been inherited by
+him from his father. The worst time for us as pupils was to
+have to appear in church on Sundays. The church was a great
+building of stone, without heat; hence, in the section for
+pupils we were after several hours so cold that it became
+just like an ice house. As a six or seven year old boy
+sitting there for so long often caused me to cry out aloud
+because of the pain in my feet.
+
+Our teacher would not have taken the missing of
+church because of the severe cold as seriously as my father
+would have. I did not dare to miss nor even plead with him
+about the matter. He never missed church himself. I remem-
+ber that in the summer time, when I was about six or seven
+years old, he took me Sunday afternoons and ordered me to
+follow him on a walk. We went into the woods where we both
+were by ourselves. Usually we went to a hill south of the
+village where there was a beautiful view. There at first
+would be repeated the questions of the minister from the
+catechism. Then, as far as his knowledge could comprehend,
+he analyzed the work of the creation; and I learned of the
+greatness of the Creator.
+
+Sunday was the only day in the summer time when my
+father was permitted to join his family. During the rest of
+the week he was employed as a carpenter out of town ina
+little village, Gonterskirchen, about an hours journey to
+the south of our village. There all the inhabitants were
+charcoal burners and were carrying on this business in the
+following way.
+
+At that time the wood in the great forests of the
+Count Solms zu Laubach was of little value. The village
+sat in the forest like an oasis. These people now, who
+also did a little farming, bought land in those woods and
+in an advantageous district were cut several piles of wood.
+The forest was composed of beech trees only. One would aim
+to be in good standing with the forest ranger and then start
+to prepare the wood. During this time one looked around.
+Perhaps he would be lucky enough to find many dead trees -..
+
+and other shrubbery that when taken away would not be
+detrimental to the forest. In this manner at that time the
+coaler used to his advantage three times as much and more
+wood than he paid the count for. The charcoal was sold to
+blacksmiths within a radius of from fifteen to twenty hours
+journey.
+
+Once I talked about this subject to a very old man,
+Kurt Lind. He said that the trees did not bloom any more,
+and then told me: "Several years ago I was coaling with
+several helpers at Hupp, over there near Huppelsberg. I
+had bought a quantity of wood and worked there the whole
+summer and into the late autumn. I was punished at the
+forest court at Laubach with a three hundred gulden fine.
+In spite of that I wish for myself wages and earnings like
+that every year." With this kind of business these people
+were well off; and therefore much was being built in their
+village. It was to become the sphere of action of my youth.
+
+Under the above circumstances the days were spent
+between joy and sorrow. I had become fourteen years of age;
+and the time for confirmation had arrived. School would be
+finished; and for me a more serious life should begin. In
+school I had taken first place during the last two years;
+proof that I had been an eager student. My teacher and my
+parents were proud; as a rule children of wealthy people
+held that place. ,
+
+In addition to all of the work and studying my
+school lessons, I always found time to catch and raise
+birds. This, my father always allowed; and it pleased me
+that he did. I was not allowed to misuse the privilege
+however. It gave Father much joy, when in the wintertime
+I caught several chaffinches. In the spring each of these
+within his usual large cage would compete with one another.
+Larks, starling, and blackbirds I raised from fledglings.
+The latter could be taught whistling while the starling is
+inclined to mock you. Once my father taught a blackbird
+the tune of the song, "My mind is filled with joy, Jesus,
+when I think of you."
+
+All of those boyish things were on the day of my
+confirmation, Whitsunday; 1825, looked upon as ended. It
+has since that time never entered my mind to catch a bird.
+There was more important work to be done. The number of
+candidates for confirmation at this time was about 24 or
+25, led by Pastor Georg Frank.
+
+It was determined by my father, and it also was
+my wish, that I should become a carpenter. I had looked
+forward to this for a long time. At that time there was
+a rule with us and in the surrounding area that each trade
+should be handed down within a family. So it was with us,
+because of my great grandfather, who had been a carpenter
+in his hometown of Wohnback in the Wetterau.
+
+It so happened at this time that in our village
+there was a man Johannes Jung. In Barthels Haus a two
+story barn was built for him by my father, his brother,
+and their journeymen. It was ready for assembly and was
+scheduled to be raised the Wednesday after Whitsunday.
+Naturally I found myself on that spot and helped as much
+as I could. By the way, I took care of the hammering of
+
+the wooden pegs. All went well. In a short time the upper
+floor was raised. Just as the ridgepole was about to be put
+into the rafters, I realized’ that the man who was holding ~ «
+
+the end had lost his courage and was trembling. I sprang
+over to help him. At the same moment he let the pole drop
+on my head. We both fell, the pole and I, through the
+frame; and someone picked us up off the ground. I had not
+suffered much except that around my left eye I had been
+skinned and bruised. My father believed that I had lost my
+interest in the carpenter's trade; and he thought that I
+might be interested in another business that would be less
+dangerous. I did not lose my courage. My injuries were
+not yet healed when one could see me work with my father's
+prother, who was also my godfather, at the workshop
+swinging an axe.
+
+The two brothers worked together, but my father
+always took the rougher and heavier work at strange places.
+His younger brother, Konrad, made things a little more
+comfortable for himself working in our home village if work
+could be found there. To allow me to enjoy some of these \
+conveniences my father left me to work with his brother.
+Father thought that he was doing me a favor, but in that he
+was mistaken. Even though he was very strict in dealing
+with me his father's heart was considerably closer in
+understanding me than was his brother's. My uncle treated
+me according to his frame of mind and without personal interest.
+
+Before I go on to the second period of my life, or
+the second chapter of my story, there is still a question to
+be answered. What had I really learned in school? I had
+studied reading, writing, and arithmetic. Furthermore, I had
+learned by heart: first, Luther's catechism; second, the small
+catechism plus several hundred added Bible verses; third, one
+hundred and four stories from the Bible as told by Johann
+Hubner; fourth, thirty and more of the psalms of David; and
+fifth, a number of songs out of the old Marburger song book;
+also some geography was studied without the use of maps, and
+singing was studied, not be note or voice training but by
+ear. Oh, how I loved to sing and still do to this day!
+
+The writing that I had studied could only be
+called copying. A letter of my own I could not write.
+I could not even think for myself because everything
+had to be grasped according to regulations and in pattern.
+In addition to that all of the learning by rote smothers
+one's own thinking. One who was proud of the little he
+knew, however, learned to take advantage of each oppor-
+tunity to enrich his store of knowledge, or better yet
+to add still more to that that was once learned. There
+was a kind man in our neighborhood, by name Dickel, who
+had formerly been a captain in the standing army. He was
+quite an elderly man and had had much experience. If
+anyone of the poor people in the surrounding villages, as
+well as those in his home town, had a problem that required
+a petition to the administration or government or as a
+Supplicant to Count Solms zu Lauback, this man would be
+taken advantage of; and the paragraphs he had written
+would be copied. Because officials everywhere came to
+recognize his handwriting, he used to have me write instead.
+He did not take any payment himself, so naturally there was
+not any remuneration in it for me either. I counted myself
+paid sufficiently because I was enabled to learn something
+about governmental procedures through doing the work. I
+
+learned thereby to write a letter that I did not have to
+be ashamed of.

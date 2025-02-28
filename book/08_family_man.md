@@ -1,0 +1,1539 @@
+FAMILY MAN
+
+Now, to return to the subject of my marriage, and
+to relate competely the historical circumstances. I must
+state that all the sisters, as well as the mother of the
+object of my love, were very fond of me. Only her father
+was Still wishing for his darling a partner somewhat more
+endowed with worldly goods. In spite of that feeling he
+always was friendly toward me. It even happened that after
+I had worked in the field during the day for several par-
+ties, and in unison with Boning had measured meets and |
+bounds and set markers, he sat with me especially when I
+came to call in the evening. He discussed with me the work
+I had done during the day.
+
+If he had some carpentry work to do, he asked me
+to attend to it. It seemed to me almost as if he saw
+something uncommon. He never made me feel that I was an
+interference with his plans. Only once did he warn his
+daughter about me. Probably those who were jealous of me
+had their hands in that game. It was my opinion that he
+gave thought to it no longer. In the evening he was some-
+times in such a jovial mood that we became very friendly
+and sang songs together. His daughter, because of formal
+etiquette, did not approve. He enjoyed singing even
+though he was nearly seventy years old.
+
+Unfortunately he did not live long enough to be
+able to welcome me as his son-in-law. It was not long
+after those happy evenings that he became ill, had swollen
+feet, and showed other Symptoms of dropsy. Through the
+wise use of medicine he did not become so seriously ill
+that he was confined to his bed. On the fifteenth of
+January, 1835, he was taken from this earth by an easy
+death.
+
+He left behind a-widow and four unmarried daugh-
+ters. The oldest daughter, Dorothea, had been married
+before her father's death. Her husband was Konrad Immelt.
+She had died of a brain inflamation in 1830, and left two
+sons, three and five years old. The second daughter, Mar-
+gretha, married soon after her father's death. Her husband
+was a Shoemaker in Laubach, where they took up residence.
+She was not happy, and died as the result of a stroke
+believed caused by this unhappiness in 1837. She was
+survived by a daughter, about one and one-half years old.
+The third daughter, Anna Elisa, as well as the fourth
+daughter, Elizabeth, both married in the year 1836. Anna
+Elisa married Heinrich Volp, a native of Freienseen; and
+Elizabeth married Louis Jochem, a native of Laubach who
+had settled in Freienseen.
+27
+
+’ In accordance with the provisions of their father's
+will, the sisters divided, with the approval of their mother
+the estate left by their father. Volp and Jochem took over .*
+the management of the farm, for which they paid jointly 1400
+florin. I, as their carpenter, constructed two apartments
+in the dwelling in town. By giving up the space that had
+been devoted to the bakery, much additional room was gained.
+By drawing lots, Volp received the front of the house on the
+main street side, and Jochem the part on the side street and
+the farm. Their mother chose to live with the Volp couple.
+Each decided to set aside a specified amount for the support
+of their mother, but she refused to accept money. Volp and
+Jochem both farmed; in addition each had another trade.
+Jochem was a cooper, and Volp operated a small oil business.
+
+The youngest and still unmarried sister, Katharina,
+lived with Elizabeth, She gave to Jochem her inherited
+piece of property as a loan to finance his farming, and
+lived with them for her room and board. Thus she had a life
+free from worries. She earned a good income for herself as
+a seamstress, making many dresses for people.
+
+She waited patiently for a suitable time for us to
+marry. Frequently she called at our home to visit my mother,
+who had been confined to her bed for three years with arthri-
+tis. My mother was the reason for my hesitation. I was con-
+sidering marriage, but it did not seem to be a suitable time;
+and I was embarrassed to discuss the matter with my father.
+He was working in Gonterskirchen, and came home on Saturday
+evenings only. My uncle and I worked in Laubach. My sister
+did the housework and was my mother's nurse. I realized that
+the time had come for me to make a decision. I wrote my
+father a letter explaining my intentions, and put it in his
+waist pocket along with his pocket knife. He found it there,
+and thus became acquainted with my wishes.
+
+I was favored by fate. In the month of April, I
+fell ill in Laubach and had to return home, when I took to
+my bed. My sister cared for me and provided me with the
+necessities. I had such a high fever that I was from time
+to time out of my head. I would think it was cold, but would
+be sweating profusely. After the fever subsided I broke out
+with something that looked like small pox. We did not think,
+however, that I had that. Several days I remained in bed and
+saw no one other than my sister. One day she did not come at
+all. Suddenly my father appeared. He told me that my sister
+was.to be married that day. Her bridegroom was Christian
+Lutz, who visited me in my room that evening. I shook hands
+with him and congratulated him as my brother-in-law.
+28
+
+It did not take long until my tough nature became
+the victor; and I recovered. Soon I was able to swing the
+axe once more. My sister wanted to move with her husband
+to live with his parents; he was their only son. I did not
+have to be the driving force for my marriage. My mother
+absolutely had to have a nurse; and no one could take over
+this position more suitably than the person who would let
+herself be called daughter by the sick woman. I now felt
+that I had every right to claim her as my bride. She be-
+lieved herself Obligated to take over the honorable but not
+very joyful task of caring for my mother, and was willing
+to do so lovingly and conscientiously.
+
+Several months passed. My wife's mother was in-
+formed of our intentions; and we asked for her blessing,
+which was not long in coming. We made our preparations;
+and as already remarked, we were married on August 8,
+1838. My sister and her husband moved in with his par-
+ents; and my wife and I took an apartment with my parents.
+My sick mother showed that she was very satisfied with the
+care being given her by her new daughter. She was most
+happy that she had been able to live to see the fate of
+both of her children, as she only wished for their happi-
+ness.
+
+Mother had been for over a year so helpless that
+she was not able, without assistance, to turn over in her
+bed. With every movement she cried out in pain. Gout had
+made her an invalid. The leg that was bent and stiff
+caused her the greatest pain. By continually being confined
+to her bed, her skin became sore. Keeping as clean as
+possible was the first task; and in that regard my wife
+was a most Suitable nurse. It did not take long before
+symptoms of dropsy began to develop. Mother's suffering
+was so great that sometimes my father and I wished for her
+release by death. Hearts would break in all who saw her
+suffering and who realized that her recovery could not be
+expected. Her plight continued until November 3rd of that
+Same year; at that time she was relived of all suffering
+by a peaceful death. The final moments were happy for her.
+As she was taking her last breath, she forced out the words,
+"Ach, there, my mother and my little Johannes," and she was
+
+- ho more,
+
+After Mother's death, Father did not want to main-
+tain the household for himself. Therefore he willed me the
+apartment with its contents for a suitable price and re-
+served living quarters for himself. Since he wanted to live
+with me and my family, he paid for his board. The winter of
+1838-1839 showed us that our apartment, consisting of a
+living room and bedroom on the second floor, did not provide
+enough room for us to live in comfortably. With my father's
+approval we sold the house to August Berger, a brushmaker,
+29
+
+for 500 gulden; and bought a two story house with a barn
+for about 925 gulden from Heinrich Knosp. There was room
+for a small garden; this was soon made and proved to be
+
+of great value to us. The dwelling was in need of repair,
+carpentry and masonry were required; and we started work
+on this almost at once. The reparations progressed so well
+that we were able to move in during the fall of that year.
+We were very happy in our new home. Father set up house-
+keeping for himself in an especially nice room that had a
+heater of its own. This had happened to him for the first
+time in his life.
+
+Our happiness became even greater when my wife,
+on November 9, 1839, placed a little son in my arms. We
+asked my father to act as godfather at the christening;
+and he named our son Henry Jacob.
+
+Up until now all my wishes had come true and my
+happiness was reaching its highest peak, when all at once
+a change heppened that threatened my whole happiness. My
+brother-in-law, Christian Lutz, came down with a severe
+fever. My father and I took turns nursing him at night.
+It was at Christmas time. Dr. Steinmetz was his doctor.
+One day my sister came to me and complained of chills.
+She said that she wished that she could have one sweat
+and then go home. At home it was not possible for her
+to rest with her husband being so ill. This hit my heart,
+and I said, "You may stay with us.'' What I didn't know
+was that she too had the fever; and soon my wife came
+down with it severely.
+
+This time was for me the hardest proving stone.
+The little sprout was eleven weeks old and had to be taken
+from his«mother and weaned since the latter was deathly
+LLL. I, being very frightened, took care of her myself.
+One can imagine that I did not neglect anything and hoped
+for the best. My faith was with the All Powerful and the
+doctor; and I was not disappointed. Every second day the
+doctor came. He was still treating my brother-in-law, who
+was by then much improved. The fever had overcome both of
+his parents. In spite of everything that was done both of
+the parents died within one week.
+
+My father's sister, Anna Maria, and her family were
+also infected with the disease. She and her husband, Konrad
+Schmidt, along with their son, Heinrich, and his wife, were
+engaged in business bleaching. During the winter they wove
+cotton. Since it was not possible for my sister to wash at
+home, she took her laundry to our aunt, who took care of it
+for her. Thus it happened that both Schmidt men, father
+and son, died after being ill for two weeks; they were
+buried in a common grave. My aunt became ill, but she re-
+covered. The young wife and her one and one-half year old
+son were also spared.
+30
+
+This was for me a time filled with worry and sorrow.
+The happiness for which I had fought so hard and reached the
+point where it seemed to me that it had been lost. As the
+bodies of the Schmidt men were taken to their final resting
+place and with the tolling of the church bell, I stood by
+the pallet of my delirious and deathly sick wife, the young
+mother of our baby. I took care that she should not notice
+the tolling of the bell, hoping to prevent her from getting
+upset emotionally. To my amazement Mrs. Haderer came into
+our doorway and wanted to watch the funeral procession pass
+our house. I was shocked, but luckily she took my hint and
+began to talk about something else. My wife was conscious
+but did not notice the funeral procession nor did she know
+about the deathers of our two relatives. My father was with
+my sister, who lived on the second floor and who was not
+very ill.
+
+I would have liked to have hired some one to help
+me with the housework, but who could blame people for want-
+ing to stay away from our house? The care of my wife and
+our little son, whom I had to give cow's milk, kept me busy.
+In addition to that a meal had to be prepared daily, some-
+times I made soup for the sick. My sister was able to eat
+each noon a browned flour soup, but my wife was seldom able
+to eat even that. I also had to feed and milk two cows; and
+the little sprout had to be washed and cleaned. I even
+washed his diapers. One of my wife's sisters came each
+morning and made the bed for her. I could get some rest
+only when my aunt, Wilhelmina Benzel, came to relieve me
+of my nursing duties. I knew that I could trust her and
+
+that no negligent things would happen while she was here.
+
+She was the one who at last found a person to work
+for me on a weekly basis. Anna Elizabeth Bergen was about
+50. She did the cooking and the washing. Three or four
+weeks passed before, at last, the feverish delirium of the
+Sick ceased. Dr. Steinmetz finally gave me the long hoped
+for word that my wife was out of danger. My sister was
+able to leave her bed. Slowly my wife was recovering. The
+storm was over. With quiet and grateful hearts, we again
+were able to look ahead with courage and faith that the
+guide of fate after this thunderstorm would, for a change,
+let the sun shine for us. My sister and the woman whom I
+had hired took charge of the household. When my sister
+returned to her home, she found her husband was much im-
+
+proved but still weak. Her in-laws had left her an empty
+room.
+
+The winter of 1839-1840 I will never forget.
+Never in my life have I been so happy, after the overcoming
+of disease by my wife. After such suffering by any one mem-
+ber of the family, one really feels how the hand of love en-
+circles with renewed power the ones who belong together.
+During that winter I did not do any outside work as I had
+enough to do at home. It still took time for my wife to
+31
+
+regain strength enough so that she was able to take care of
+little Henry herself. He had been living on milk and zwie-
+bach; and often he suffered because of the colic cuased by
+
+this.
+
+When spring came we hired a maid, who during the
+year, fed the cows with green fodder and did much of the
+necessary work around the house. During the time that my
+father and I had been busy taking care of the sick, my un-
+cle had accepted, in the spring of 1940, much carpentry
+work. The main task was a large barn for N. N. Jochem in
+Laubach; at that time he was city treasurer. Also we were
+to build a new two story building for W. Bettelhauser to
+use for the soap works. There were also other things to
+be done in that city; for example, a two story stall for
+the glazier, Heinrich Kuhn. That we could call a good year!
+
+For W. Bettelhauser's building we had to furnish
+the wood. This we bought from the city of Laubach, which
+had a community forest in its possession where we could
+buy the wood at a low price. Therefore we could make good
+profit. Winter came and we did not have to do much outside.
+Instead, using the house as a workshop, we made a variety
+of things: stairs for the brothers Hess in Einartshausen as
+well as new stairs for the Turner Hannes, etc.
+
+In the spring of 1841 we were again very busy.
+The Count Solms zu Laubach had on city property between
+Freienseen and Laubach an old brick kiln. This was to be
+torn down; and a new larger one was to be built on the same
+spot. My uncle signed a contract with the Solms building
+supervisor, Loffler, to complete the work. My father and I
+began work on it in the month of May. Uncle's mason, Daniel
+Boning, and my uncle took over a large area for fire inspec-
+tion. They were kept busy at this for two months; this
+caused them to be late in completing the carpentry work that
+Uncle had undertaken at the request of farmers near Freien-
+seen and Laubach. Father was not able to help with the com-
+pletion of the new kiln as he was called back to Gonterskir-
+chen, where he had found work during the summer.
+
+The brick kiln was left for me to finish; there-
+fore I hired four journeymen from Laubach: Peter Laut,
+Christ Lober, Heinrich Feindrich, and Nicklaus Hannes, as
+well as two others from Sellerod: Heinrich and Johannes
+Rister, father and son. When I was ready to raise the
+building, I had my father and uncle with their journeymen
+to help me. This was good because very heavy pieces had to
+be fitted into an opening that required not only strength
+but was also dangerous as all of the necessary equipment
+could not be had. There was also a dwelling for the brick
+maker. The old still very useful wood was again used for
+the new construction. Here I found full time work with my
+journeymen for the whole year. Drying buildings were
+enlarged and improved by new racks, for which we cut the
+needed boards out of beech trees. The work with the excep-
+tion of that on the new building was paid for ona daily
+basis. During the winter about fifty thousand new brick
+boards, each 16 inches long, 6 inches wide, and 4% inch thick
+were manufactured by me; and my journeymen assisted me in
+this. We made and planed them for one gulden per thousand
+boards. My father and uncle did not help us as they no
+longer wanted to work outside during the winter.
+
+I also found work for the count both in his castle
+and on his estates in the neighborhood. In the Obersenner
+Hof a new fire house and jail were built; and at the admin-
+istrator's dwelling, repair work was done. With two saws,
+one that we used at the brick kiln and the other that we
+had used in the carpenter's lot at the castle, we cut boards
+by hand. I still depended on my uncle, who had become a
+master at the guild in Laubach. For things to be right, I
+should have been a master myself long before this. Because
+of circumstances it had been postponed.
+
+At that time all of the building tradesmen who
+wanted to work on new construction had to be examined, under
+the extant government, by a trademaster employed by the
+county for that purpose. I applied to take this examination
+in the winter of 1842 in the county building office at
+Gieszen. I was notified that I had to appear on the 15th of
+April of this year before the countytrademaster, Muller, at
+the castle at Grunberg. Earlier I had become acquainted with
+a locksmith, Alles, who also had to report for the examina-
+‘tion. I talked with him; and we found another colleague, who
+was a locksmith in Grunberg. The two were practicing their
+arithmetic. Another, whose name I have forgotten, seemed to
+me to be badly informed through means of stereotyped arithme-
+tic problems. We went to the castle together; and there we
+found well over thirty candidates: carpenters, masons, cabinet
+makers, locksmiths, roofers, and coopers. The examination was
+only a theoretical one. The first day began with easy arithme-
+tic problems. My two Grunberg locksmith friends were able to
+follow, and were invited for the next decisive day. About
+three fourths of all participants were sent back and invited
+to return for the same examination next year. I stayed in
+Grunberg overnight. As I imagined that critical arithmetic
+problems would follow the next day, I studied and practiced
+such problems or similar ones with the two locksmiths through
+the night as best we could.
+
+Next day only a few men met. There were two carpen-
+ters, the two locksmiths, two masons, about as many cabinet
+makers, and one roofer from Grunberg. The latter was the
+best problem solver in the group. The other carpenter pre-
+sent was M. N. Schmidt from Munzenberg. The problems were
+on space and mensuration plus square and cube roots. The
+locksmiths, for example, were asked how many pounds of iron
+would be necessary for an iron gate of certain dimensions
+if one cubic inch of iron weighed one loten. The carpentry
+33
+
+problems concerned tree trunks and estimating building con-
+struction costs as well as Pythagorian theorem. One question
+asked was to find the length of a rafter on a pitched roof by
+determining the square root. The reason all of these prob-
+lems seemed easy to me was due to the fact that I had during
+the last ten years used all of them on a practical basis in
+my trade as well as in my work as a surveyor. My report
+
+from the county building supervisor at the end read, ''good,
+passing."' They then gave me the problem for my practical
+mastership; I had four weeks in which to deliver my solution.
+
+The problem consisted of drawing a sketch of a farm
+building, 50 feet long, 40 feet wide, with a sketch for each
+of the two floors, front elevation, side elevation, as well
+as a sectional lengthwise and in width, scaled to one one-
+hundredth of true size. A model of the roof according to
+the newest system, one-twentieth true size was to be
+included. The sketches I made easily, but the model took a
+great deal of time. The guild at Laubach was requested to
+send a viewing master to certify that I had done every bit
+of the work myself. I had a cabinet maker prepare the
+wooden parts for my model at the stated dimensions; otherwise
+I could not have completed it within the set time. I could
+not totally abandon my business as that was my livelihood;
+and I had to keep the journeymen busy.
+
+I was glad that I was able to deliver the material
+within the set time. My instructions were such that af- 1
+did not present material within the prescribed time it would
+be looked upon as though I had not been able to solve the
+problem. A continuance of the set time would have been
+granted had I asked for it, but I was too proud to beg and
+I had no money to pay. I went to hand in my completed work
+but did not find the county pbuilding supervisor at home.
+Four weeks later I received from the county administration
+office at Hungen the notice that my work had been received.
+I was told that the work was not too good. In order that
+I might be declared a master I had to satisfy the Laubach
+guild and pay to them my membership dues. I took care of
+this matter quickly.
+
+No longer did I depend on my uncle; however, it
+never occurred to either of us to dissolve our partnership.
+The count's building supervisor, Loffler, gave me so much
+work for the count that I was kept busy the entire year,
+winter and summer. During the winter boards and blocks
+
+were cut. Trees had to be cut in the forest for this, and
+were then brought to the carpentry shop. Transportation
+was supplied by the farmers near Laubach. In exceptional
+
+cases transportation was furnished by those near Obersenner
+and Flensinger Hof.
+34
+
+Cutting boards was paid for at the rate of one
+florin and thirty kreuzer per one hundred square feet.
+As every log had to be cut on four sides, four Kreuzer
+were added per running foot.
+
+The year 1843 was bearing fruit in accordance :
+with my becoming a master. The county building office in
+Grunberg had been set up by the government; the county
+building supervisor, Holzappel, was in charge. Contracts
+were to be issued through this office for the construction
+in the community of Bubenhausen of three new parishes,
+dwelling, barn and livery sheds through public bidding.
+The contractor was expected to furnish building material.
+The bidding was a negative one. As a result of the auc-
+tion the lowest bidder was promised the contract with the
+condition that the county building supervisor had the
+right to choose anyone among the three lowest bidders.
+
+It was arranged that the master carpenter Bast of
+Gieszen would make the lowest bid, 128 florin more than
+the estimated cost of all buildings. We entered into part-
+nership so that Bast would take care of the dwelling, master
+carpenter Ilaas from Grunberg the livery, and I the barn.
+Oak wood for construction I obtained in the forest of the
+Count Solms zu Laubach; the soft wood came from Hanau.
+Repair work on the church was offered me by the county
+supervisor and I undertook to complete that. Father and
+I worked mainly on the barn; and my uncle worked on the
+church. Inflation was a problem so we, together with our
+journeymen, were most happy that we had regular work.
+
+It was impossible for me to help complete the
+barn. I was called to Laubach to do work for the count;
+and I did not want to lose his business. The count
+intended to restore the gypsum mill and to reconstruct
+the whole power plant. For this the old water wheel had
+to be taken out and disposed of and a new one had to be
+constructed. It was made -- about 24 feet high -- from
+usable oak trees cut in the forest in the presence of the
+forest ranger. At the building site those trees were cut
+into boards as the task required. Meanwhile the building
+supervisor had employed a millwright to supervise the work,
+but the two of them were unable to reach agreement. The
+supervisor complained about this matter to me and asked if
+I were able to take over the work. He desired that I do
+this task for daily wages. I replied that I had never been a
+millwright, but if they would instruct me what to do, I
+was hoping that I would be able to do the job. He told
+me that several cog power wheels had to be made; and that
+required much thought. As he had no millweright who under-
+stood his requirements, he thought I should take over. I
+remained silent, thinking over what I ought to do.
+35
+
+I immediately went to the butter buyer in our
+village as he had to go to Frankfurt that week, and had
+him order for me from a book store a book on machine
+construction. He obtained and brought back with him a
+copy of Haindel's MASCHIENEN KUNTE. This work became a
+teacher for me as well as for the building supervisor,
+Loffler. Work was begun. I retained several journeymen
+for the construction work and requested a millwright to
+build the water wheel. Johann Klosmiller was sent; he
+was born at Sellerod and had married in Lauter. I had
+to pay him a daily wage. The journeyman I picked for
+this task was Johannes Kieckhofer, a native of Eichenhain
+who went to America in 1846. The other fellow, Jacob
+Buttrow, came from Standechs, and was still an apprentice.
+It turned out that he was not suitable for the work. Con-
+struction lasted until winter, when one started to grind
+and plaster. After completion of the machinery no more
+work was required of the millwright. Work was still done
+by me; and my people continued to work at their tasks.
+
+It came to pass that a new threshing machine
+operated by the water of the river Wetter, was built in
+Muhl Baderich, in the Kloister Arnsberg. Power was
+transmitted by a special water wheel through several shafts
+in an underground tunnel to a large barn near the gate
+building. There the threshing machine was constructed on a
+threshing floor. To complete the models of the cast iron
+wheels, a room in the count's castle was prepared to serve
+us as a workshop. The pbuilding supervisor also employed two
+cabinet makers, the master Wilhelm Frank and one journeyman,
+who helped to complete the models. I was always busy planning
+and constructing the power wheels in which Loffler associated.
+The wheels were cast at Friedrichschutte. If at all possible
+we scheduled this work for winter when one preferred to keep
+busy in the workshop. My two journeymen, who were selected
+for this, took advantage of it more than I did. As soon as
+the building wood arrived, I believed myself obligated,
+along with one or two men, to help the haulers, particularly
+when the weather was bad. As soon as I had assembled the
+machine in the fall and had it in shape for threshing -- the
+cylinder made 1600 r.p.m. -~- threshing was started and
+proved satisfactory for everyone concerned.
+
+By now the Grand Duke's building officials had
+become acquainted with the work done by my father, my uncle,
+and me. They also knew that we produced things of good
+quality. Consequently we received from the county construc-—
+tion superintendent a job in Ulrichstein that we undertook
+at the price of the pre-estimate. Due to the elimination
+of the tithe, one of the Grand Duke's fruit storage build-
+ings had become superfluous. This building was to be re-
+modeled into a studding stable. Likewise, changes were made
+in the old stables. Thus it became an important job.
+36
+
+In February, 1844, my uncle and I went to Hanau to
+buy logs from the firm of Dainer Brothers. The logs were
+brought by wagoners from Hanau to Ulrichstein; some wére to
+be delivered in the spring, the rest came in the winter. We
+subcontracted for this hauling in Hanau. I, myself, did not
+go along to work there. My father and uncle looked after
+that as I had too much to do in Laubach. Part of the time
+Father also worked for farmers near the various villages.
+
+My uncle, however, stayed so long near Ulrichstein on that
+job that he, during that same summer, took over remodeling
+an old building into a synagogue. The latter job had been
+given him by the Grand Duke's construction supervisor,
+Posainer. On this job he contracted small pox, and was
+taken home very ill. I was good enough to finish the work
+that he had started. The first thing I had to do was to
+tear down the pillars for the choir loft. At that time I
+took Christian Bachman with me as an apprentice. He caught
+on right away. taking the task of holding and turning spoon.
+It took less than another two weeks and the Jewish temple
+was completed in so far as the carpentry was concerned.
+
+During this time Father worked on a new residential
+building in Laubach for N. N. Bihauser, but Uncle was not
+able to do any work at all that fall. After his convales-
+cence he became a fire inspector for the villages around
+Vogelsberg.
+
+In 1845 another turning lathe, driven by oxen, was
+built in our workshop in the count's Laubach castle for the
+improvement of the economy of the Utpher Hof in the Wetterau.
+There we also built in a barn a mill that was driven by a
+winch that in turn was horse driven. In addition to the
+building of these machines the remaining carpentry was
+finished by seven of our journeymen. Work on wooden pumps
+was also given me; for example, in Flensinger Hof, Otterbach
+and Pfardendorfgill. In the distillery at Arnsberger
+Kloister we also drilled the pipes. During the years 1845
+and 1846 great changes and repairs were made in agricultural
+buildings, and particularly to the Flensinger Hof stables of
+
+the Count Solms. There I always found enough work to keep
+three men busy.
+
+?
+
+The mill of the Kloister Arnsberg was entirely re-
+done in 1845. Actually the ageless gears were removed; and
+the mill works were geared for three milling speeds with
+the driving wheels to be put in motion by a large wheel.
+Construction was conical. We completed the work in the shop
+in the castle yard at Laubach and on a barn threshing floor.
+We put everything together and got it so far that if one
+were to turn the large wheel by hand all of the gears would
+begin to turn. By the time we brought the machine to its
+location, Loffler had already secured the milling stones.
+We were able to proceed and put everything together
+right there. The corona of the large wheel had a
+diameter of seven feet; and the shafts were from eight
+to nine feet long’ and seven inches in diameter. It
+took much work to get everything in its proper place.
+The teeth of the large wheel were made of wood; the
+"scheift" was three inches. It took three weeks of
+work before we were able to say that we were ready to
+start to grind. A mill supervisor by the name of Rend
+and a miller by the name of Zerb were employed. The
+latter was a married man and had a family.
+
+While we were on the job in the Kloister, we
+boarded with Philip Hensel. He was a fancy dyer, and
+had brought all of the dyeing equipment from the Sepa-
+ratists who had emigrated to America. He had taken a
+lease from his honor, the Duke of Solms, ona building,
+where up until this time the dyeing business of the
+Count of Solms had been done. In addition to the dyeing
+business, Hensel ran a general store - grocery and
+tavern.
+
+During this period several repair jobs were
+done for citizens in the town of Laubach. Upon the
+suggestion of the Count's wife, Princess von Neuwied
+of the house of Furst von Neuwied asked us to erect
+a building to be used as a school for small children.
+The work my father did, I have partially forgotten,
+but I do know that he and my uncle completed various
+reapirs in the villages of Freienseen, Laudenbach,
+and Gonterskirchen. Thus passed the year 1845.
+
+In 1846 we began work on a threshing machine
+for the estate at Munzenberg. This we completed. We
+were able to use some of the models for the Utpher
+machine; and that saved time. During the year we built
+two English barns and granaries: one on the Obersenner
+Hof and the second toward Wernings near Gedern.
+
+On the Wiesenhof near Ulrichstein, belonging
+to the director of finance, Klenze, my journeymen and
+I constructed a stable in 1845 and a new barn in 1846.
+For the aforementioned stable we used material from
+an old barn that had been torn down in Feldkrucken.
+The outside walls of the stable were of stone; and
+stone was also used around the barn door. Window
+frames were made from sandstone from the quarry of
+the Riedefels near Lehmehausen.
+
+My uncle built for Christian Keil in Einarts-
+hausen in 1846 a barn and also did various jobs on the
+estate Clemeny Hutte. The proprietor was N. N. Daun.
+This estate was near Einartshausen.
+
+37
+38
+
+On our threshing machine there was no fan mill.
+The next winter was spent in the Arnsberg Kloister con-
+structing such on the local machine. What we made during
+that winter, however,..was torn out’ the next winter. That
+is to say that during the winter of 1846-1847 we changed
+everything around because the first construction had not
+proved to be satisfactory. The second then was sufficient
+for the clearning of all kinds of grain.
+
+We built for the beer brewer, Nathan, who was_
+renting the count's brewery, a grinding mill, driven by
+water wheel and gears. Attached to the gears was a small
+circular saw with which barrel staves were cut. At one
+time Nathan had agreed to deliver a load of barrels to
+Gieszen to be used for the manganese that a lawyer by the
+name of Briel had mined near Gieszen and had promised to
+ship to France. After the transaction had been made, the
+lack of transportation and the time element prevented the
+delivery from being made. Nathan decided that he was in
+need of a new saw and had one constructed. The building
+of the mill as well as the machine, which was to be driven
+by an undershot water wheel, were given to me to be carried
+out at the beginning of February, 1847. The building site
+was in the south east of Laubach on the so-called Steinbach.
+For this again I had to employ journeymen who could do mill
+work construction for I could not stay there all the time.
+
+That winter the weather was not favorable. In
+March it became so terribly cold that it was impossible
+to work. It was not until the end of April that the build-
+ing itself could be started. This was completed very quickly
+by our mason and roofer, but two months went by before any
+boards could be cut. I had my hands full with work for the
+count. The big job consisted in the manufacture of a load
+of railroad ties that had been taken over by the count's
+chamberlain, Klenze. These were to be taken to Nauheim to
+the estate castle in the province of the elector. For this
+we had to fell oak trees and haul the wood. That always
+meant that I had to be there in order to prevent damage.
+We always cut continuously with three or four long saws;
+there was much waste, from which barrel staves were made.
+The staves were needed as there was a good fruit crop that
+year; in fact, I had never seen such an abundant crop.
+Some of the staves were sent to the Kloister Arnsberg.
+
+There was much work during this year. One time I
+by myself had to make a special small water wheel that was
+used to drive the apple cider mill. One must not be sur-
+prised to learn that at the Kloister Arnsberg there were
+stored about 40 to 45 barrels of six ohms each of apple
+wine.
+39
+
+Regarding the delivery of the railroad ties, old
+oaks were felled and prepared in the districts of Eselskopf,
+Sheppmanduchung, Bruhl, and Birkenwald. Many trees were
+felled and cut that were not accepted to use of the afore-
+mentioned ties. That wood was sold in the Zimmerplatz in
+Laubach, part of it to the residents of the town and the
+rest of it to the farmers living in the neighboring villages.
+Buyers paid from 15 to 20 kreuzer per cubit foot. A part of
+the lumber had been set aside and was stored for the count's
+future needs.
+
+In the districts mentioned above not one of the
+old oaks was left standing as they were no longer of value.
+The new stand was composed of beeches of six to nine inches
+in diameter. At any rate this left the count with less
+than 20 oaks over 100 years old in all of his forest land.
+Those that had been cut for the ties were all from 400 to
+500 years old.
+
+During the year; major repair jobs were completed
+on the Neuhof mill near Ruppertsburg. Horloff's Mill,
+which at that time was still the property of the count,
+was repaired by our mill personnel. Later the mill was
+sold as it did not bring in much revenue. My father's
+work was in Einartshausen, where he built a house for
+Johannes Merker and did other repairs. In 1848 the house
+on the Neu-Wiesenhof estate was covered with drop siding
+that we had made by hand.
+
+The price of groceries went up tremendously in
+1847; because of that it seemed that a day laborer earned
+very little. For this reason the chief clerk, Klenze,
+obtained permission from the count to build a pond on the
+Obersenner Hof. I was to construct the lock and gate for
+the diversion of the water. I also built several wooden
+bridges and did minor carpentry work on the Holding Otter-
+bach. A pipeline for the mash used in the distillery was
+made, and a pump was installed. In the winter of 1848 we
+repaired pig pens and other things at the Kloister Arns-
+berg. New flour bins were made and the old ones were re-
+paired at the mill. In the carpentry shop at the Laubach
+castle we worked on a gear train for a grist mill at the
+Hof Munsenberg. ;
+
+Due to the revolution in March the work on the
+Munzenberg estate was not finished. The frame and the
+accessories were sold to the brushmaker, August Berger,
+in Freienseen. I installed the machine for him; this
+machine worked the turning lathe and drill. To put a
+roof over the machine we had to build a new building
+close to the living quarters. In the same year the Count
+Solms zu Laubach had several more carpentry tasks done;
+those were absolutely necessary, as the living quarters
+40
+
+for the brewer and the brewery itself had to be finished.
+Superintendent Loffler did everything possible to make work
+for the indispensable journeymen, even having the rotting
+boards in the horse stables replaced with new ones. Garden
+pots for the orangery and compost bins were made. Two barns
+on the Neuhof by Ruppertsburg were burned down by arsonists.
+Carpenters were employed to rebuild them. Out of respect
+the job was given to the master carpenter, A. Diehl, who
+lived in Ruppertsburg. While the work was being done, one
+man lost his life.
+
+During this year the work being done by my father
+was in Einartshausen; there he made major repairs to the
+living quarters of Under Forester Wagner. The living quar-
+ters of the latter were in the gamekeeper's cottage near
+the Kirchberg.
+
+For some time my father had been in poor health.
+He had pain in his right side under his rib cage. This
+pain subsided at times, but eventually became worse. He
+thought that perhaps he had lifted something too heavy
+for him. A doctor was consulted and was given the above
+information that caused him to make an incorrect diagnosis.
+At last after numerous examinations the doctor determined
+that it was cuased by a weakening of the liver. Diagnosis
+was made too late; and my father could not be saved. He
+passed away shortly before Christmas. He had been born
+January 24, 1788, and was sixty and one-half years old.
+His father, Jacob Daehler, was born in Wohnbach in the
+Wetterau. My father's mother was born in Freienseen; her
+maiden name was Stein. The carpentry trade had been handed
+down in the family.
+
+I do not remember exactly what work my uncle was
+doing during the years 1847-1848. If I am not mistaken
+he worked in Freienseen and in Sandenbanch. For sometime
+he was in Sellerod doing repair work. He was not able to
+do much carpentry because of his duties as fire inspector.
+He and Martin Boning did the appraising for the taxation
+of buildings in the county. He employed a journeyman, who
+did most of the carpentry.
+
+Now I shall return to family affairs. My wife
+began to regain her strength; and without help was able to
+care for our little visitor of the world, Henry, our first
+child; and attend to household chores. We had much acreage
+and meadow land, where we sometimes had two or three cows
+grazing. Thus there was a great deal of work for my wife
+and our maid, especially during the summer. For planting
+we hired and paid Konrad Immelt, who was the husband of
+my wife's dead sister. I left the farm management to my
+wife, firstly, because I did not have the time to attend
+to it; and secondly, I did not understand much of it well.
+41
+
+She and her sister, Anna Elisa Volp, had learned much
+about this from their father through his farming; and
+they felt at home. For harvesting and threshing we hired”
+day laborers, who were always available. Our son, Henry,
+grew, much to our joy, to be a strong child even though
+he never had mother's milk. In the winter of 1841 he
+suddenly became very sick. I went to Laubach in the mid-
+dle of the night to get the doctor. Henry had a high
+fever. The doctor attended him; and in two weeks he had
+recovered.
+
+On January 20, 1841, a baby girl, to our great
+joy, was born. She was baptised on the 3lst, and was
+given the name Christiana. My wife's sister, Anna Elisa
+Volp, and my sister, Katharina, were godmothers. The
+child was so weak that we did not think she would survive.
+She died on May 16, 1841.
+
+It is impossible to describe how happy and con-
+tented the Sundays were in our home. My wife attended
+to the garden and had a variety of flowers. Since we had
+always lived in the middle of the village before, we had
+never had the pleasure of having a garden. Father and 1
+did not come home during the week until Saturday night.
+On Sunday, after church, we enjoyed in happy contentment
+our flower garden. My wife really had much more to do
+than care for a flower garden, but it lay in her good
+nature to do so. She still does this at age 70. She and
+the maid had much work to do in the fields, in the vegeta-
+ble garden, and in caring for the live-stock. Feed for
+the cows had to be mowed and carried home. After that the
+mown field had to be fertilized with manure. Manure was
+carried in a tub on one's head; even the burgomeister's
+wife was not ashamed to do that. To mow the hay and the
+second crop, it had to be cured. This was done by turning
+it many, many times until finally it was dry. She also
+had the loading and unloading to do. When it came time to
+harvest potatoes, I employed a few helpers.
+
+So the year passed,.and winter came. For every-
+one in the family days were filled with household duties.
+My wife and our maid were busy spinning, knitting, and
+sewing. Father made furniture: cupboards for the kitchen
+and wardrobes in which to store clothing. Only my humble
+self had to work outside. Even when the weather was bad
+I usually went to Laubach in the morning or into the woods
+to load logs. I wanted to keep all the work I was asked
+to do for the count; in order to do that, I had to be punc-
+tual. This became second nature to me so that I found it
+impossible to do otherwise.
+42
+
+And then came the month of May in the spring of
+
+1842, when on the 26th of that month my second son was born.
+He was baptised on the 12th of June by Pastor Zockler. His
+godfather was our brother-in-law, Louis Jochem. The tiny
+infant was christened Louis Christian. The baby's mother
+was well and we felt very happy. The companionship of the
+two little ones gave their mother much pleasure even though
+they brought many worries. My wife found plenty to do in
+the kitchen; she cooked for the day laborers who were hired
+for field work and for the carpenters who cut boards for me.
+
+I established a wood shop where I could saw two
+inch oak and pine boards for building stairs. I also made
+them out of larch and birch wood. The timber I got from
+Count Solms. I seldom bought trees other than birch.
+Whenever the forester sold trees to anyone or had them cut
+for the count's use, there usually was left from the cut-
+tings timber in various sizes: for example, 10, 15, 20, or
+as much as 25 inches thick. This I bought for five or six
+kreuzer a cubic foot. They were made into fine boards for
+furniture. Often in the village a job would come along to
+make stairs; it was good to have sufficient wood on hand.
+
+The years 1842 and 1843 passed without additional
+unusual happenings, other than the fact that 1843 was a
+year of scarcity. A simmer of rye cost six gulden. I
+bought the flour that we needed from the mill at Kloister
+Arnsberg and had it charged against my account with the
+Count Solms. A wagon from-there arrived at the Laubach
+castle each week bringing flour for the officials there.
+After harvest we managed to get along without buying any,
+but were able to use our own. Our threshing was done by
+two hired day laborers. Our grain crop was not enough
+for the entire year due to the number of boarders.
+
+Then came 1844 and again another member was added
+to our family. On the 3rd of August, our daughter, Wilhel-
+mina, was born. She was christened on the 18th of the
+month. Katharina Benzel and Christiana Daehler were her
+godmothers, and they selected her name. The latter was
+from Michelstadt in the Odenwald; and she was a daughter
+of Philip Daehler, my cousin, who was chancellor of the
+exchequer at the court of Count Erbach, and happened to
+be visiting us at the time. Christiana's relationship to
+me was that our grandfather's were brothers. Her grand-
+father, Johannes, came from Odenwald to visit my grand-
+father in Freienseen, where I saw them both. It was in
+1823, I believe. They met for the last time in their
+lives; and on that occasion both of them had a good
+snoutful.
+43
+
+My wife and I were at this time at the height of
+our happiness with our young family, in which my father
+was also included. My wife inherited from her parents a
+beautiful meadow in Waldbezirk, about a rifle shot from
+the Schreiner mill. The meadow was watered from the mill
+race; and we were able to raise about two crops of hay and
+a good second crop. I bought several adjoining parcels of
+land, and turned them into meadow and pasture. The whole
+area made up ten Darmstadter morgen. We had to pay dearly
+for the delivery of hay. Also we had other light things
+to haul. Because of that my wife thought it would be a
+good idea to buy a light wagon and some field equipment.
+She wanted to employ a stronger maid so that she could
+attend to the farm work herself.
+
+This proved not to be as easily done as she had
+thought because we had eleven or twelve parcels of land
+in the Ortsgemarkung. Il suggested that we hire a male
+hired man to work by the week, but she did not want to
+do that. She thought that she would not be in charge
+when I was away from home; she feared that the hired man
+would take over. She and her sister had always managed
+the work at her parents’ farm; and she believed that she
+and the maid ought to be able to manage our place, where
+there was not as much work. 1 bought a wagon and field
+equipment, and had a plow and harrow made; in that regard
+her wishes were fulfilled. Our cows were yoked, and my
+wife became the husbandman.
+
+I have had cause to regret this a thousand times.
+
+I should have employed a man and should not have let my
+
+wife have her way. In short she drove oxen and had at times
+
+to deal with wild and unruly cows. The first results showed
+
+up when on the 20th of October, 1846, at three o'clock in
+
+= the morning a third baby was born. He was baptized as an
+emergency precaution at nine o'clock by Pastor Blumhof; the
+child became a corpse at eleven o'clock. My aunt, Anna
+Maria, gave him the name Frederick. Still it had not oc-
+curred to me that the reason for the early death was the
+hard work my wife was doing. It did not dawn on my mind
+until a similar event occurred. I believe this was in 1848.
+This time, however, the child was still born; furthermore,
+my wife developed a hernia when she lifted our plow out of
+a furrow. She had to wear a truss. I hoped that she now
+
+—~ would give up driving oxen and doing the farm work. She
+would not do this. She rather hoped that our son, Henry,
+would help. He was a lively boy and had been of real
+assistance to his mother in handling the oxen, the wagon,
+and the farm chores.
+
+The spring of 1846 was a depressing and sorry one
+for us. Both of our boys came down with a skin rash in
+March. They did not have to stay in bed, but were able to
+
+44
+
+be up and about in their room. One day they complained
+about having sore ‘eyes. Our son, Louis, became so ill
+that it frightened us. We wished that the daylight would
+hurry. The next morning we had Dr. Steinmetz come. After
+he had made an examination he told us that he was certain
+the one eye would be lost but that there was no cause to
+worry about the other. He was convinced that the other
+eye could be saved and that the power of both eyes to see
+would be transferred to the remaining one. In the eye
+that was lost a tumor developed; this pushed the eyeball
+out of its socket. Through his dexterity the doctor suc-
+ceeded in pushing the eye back into its proper place. The
+other eye, gradually overcoming the danger, was restored.
+Henry did not have his eyes effected but the disease left
+him, much to our annoyance, with an unusually thick upper
+lip. For that Dr. Steinmetz prescribed bathing it ina
+salt solution that had to be applied for an hour at a time
+and that had to be continued for several months until this
+too was healed. So did the days alternately pass through
+light and shadow; the weeks became years; and the years
+passed on; from whence one can not order them to return.
+
+In this way came and went 1848, the year of the
+revolution. For the common people in Germany this was a
+thing unusual and surprising. We read the first news of
+this in the newspapers, and were amazed. One thought he
+could not trust his own eyes -- perhaps he had read
+incorrectly. Such incidents in ordinary life one thought,
+especially in Germany, to be quite impossible.
+
+On this occasion many people, especially those
+who were not certain what they wanted, let themselves,
+in their dream of freedom, be moved to do things and to
+accept things that were to become most disadvantageous
+for society. Everyone went and demanded relief from
+those by whom he thought himself to be oppressed. In our
+village, Freienseen, we too felt many pressures on the
+part of the Count Solms zu Laubach. The boundaries of our
+common land on the eastern and southern sides were sur-
+rounded by the Count's forested properties. Furthermore,
+many villages had meadows that were within the forest
+boundaries. In this case the count had explicit right to
+use the meadow to pasture his flocks of Sheep; this he had
+his shepherds do. The farmer, however, was not allowed to
+let his cattle graze on this property. If on occasion an
+accident occurred at the time of haying or bringing in the
+gleanings and cattle broke loose from their yoke to enter
+the meadow, then the agents of the count found out who the
+farmer was and reprimanded him, sometimes inflicting severe
+punishment upon that farmer. This was called a court. On
+farmers' meadows there were also willows and alders that
+the farmer could not cut. I once saw a man by name Heuschler
+from Laubach fined 70 gulden because he had cut on his meadow
+45
+
+at the Obersennergrund 70 pieces of alder rungs, about 4
+inch thick at the butt end and three feet long. Since he
+was not well to do, he directed to his emincence, in most
+obedient submission and in most dying reverance, a sub-
+missive memorial with a humble request. The fine was
+cancelled most graciously.
+
+In many places the edge of the forest had grown
+across the boundary so that a significant amount of tim-
+ber was standing on the farmer's meadow; yet he was not
+allowed to use it under threat of punishment in the state
+penitentiary. When the count's forester judged the time
+to be right, it was cut down; and the charcoal burners
+made it into charcoal in the summer. This took place on
+the farmer's meadow. Normally for this purpose a spot was
+chosen other than the one on which the timber stood. It
+was not possible to sue in the devil's court. We also had
+a larger area of community forest, in which the count chose
+to do his hunting as well as fishing in the lake and at
+Seenbach. All of these and other objections were considered
+burdens and were elicited in our village as such. A lot of
+noise was made, but nothing was achieved. The mayor and the
+council should have been the ones to straighten the matter
+out; they should have at least felt responsible to try. The
+mayor, however, considered his responsibility to put into
+effect and enforce the police regulations, even where they
+were not necessary. He, as well as several of our most re-
+spected men, felt quite uneasy about the rights of poor la-
+borers and day workers. They were afraid in those times of
+unrest, and feared assassination attempts by the proletariat.
+One could not find in any of these people, one who wanted to
+do something to correct the situation.
+
+Georg Boning was a member of the village council.
+I talked things over with him; and came to the conclusion
+that we should submit our demands in writing, through a
+committee elected for the purpose, to Count Solms, who was
+at that time staying in Darmstadt on business. We let our
+decision be known; and soon the agitation died down. We
+asked several other reasonable men to meet at August Berger's
+place to clarify the demands we intended to set down in our
+petition. For that purpose I wrote down on a sheet of paper
+the beginning of a letter that would summarize what the peti-
+tion was all about. In a dignified manner it stated our de-
+mands in a tone sounding like a formal petition. The
+committee consisted of August Berger, a brushmaker; Martin
+Boning, a mason; and a third one whose name I have forgot-
+ten. Four days later word came back that the count was
+willing to meet our specific demands; for example, timber
+belongs to the owner of the land; timber along private
+property or land parcels should be cut down in a width of
+approximately one rod; a property owner should be able to
+46
+
+remove from his land all timber and brush, and use it for his
+own purposes. Concerning the pasturing, his statement was
+not definite; however, it was satisfactory enough so that for
+the time being peace was restored. Concerning hunting and
+fishing, he referred us to a law that was pending in confer-
+ence in court; he recommended that we wait for the outcome of
+this hearing, and promised to do all he could to advance our
+interests in this matter. He did keep his word. Hunting and
+fishing could be carried on within the community boundaries
+in accordance with the law; and after it went into effect,
+the law would apply within the whole community, but it was
+necessary to be licensed to hunt or fish. The display of joy
+and thanks the crowd gave to the count upon the return of the
+committee was an even greater sensation than the one when we
+first made our demands. Even the committee members beamed
+with pride because of the count's high regard for them. He
+had called them repeatedly men of honor, which of course
+
+they were.
+
+All complaints concerning this had by now been
+resolved, but soon there were others. Another law passed by
+the same court created a governmental administration in every
+provincial city consisting of four officials, excluding the
+county administrators. In order to create a counterpart to
+the government administrators, there was established a body
+of citizens, chosen through election to serve on a committee
+that was given the title of a district council. The members
+were to appear in the provincial capital at an appointed
+time for the purpose of revising the limited budgets and
+regulations established by the governmental administrators.
+
+There was another circumstance that kept peopvle in
+our community excited long afterward. That was that in the
+latter part of the 1830's a highway was built from Laubach
+to Fleinsingen by the federal authorities; and the road
+went right through our village. Due to this the old bridge
+across the Seenbach was torn down and a new one built. The
+land used, in this instance, had been purchased by the gov-
+ernment from the country folk with the exception that a
+piece of ground belonging to the community had not been paid
+for. The result was that the government owned several feet
+of land on both sides of the road shoulder, as was the situ-
+ation with the bridge. After completion of the new bridge,
+the roadbed was one and one-half feet lower than that of the
+Old one. The river bed was accordingly deepened. Approxi-
+mately thirty rods upstream from the bridge there was a
+grist mill, owned by Johannes Jung. It had been in his
+family for many generations, some said as many as sixteen
+or seventeen. He took advantage of the opportunity and had
+the deepening of the stream bed continued up to the wheel
+of his mill. This was done at his expense. Shortly after-
+ward he installed a new mill wheel that was three feet
+taller than the old one. Only after everything had been
+done at the mill did it begin to dawn on the farmers that
+47
+
+no longer would water collect in front of the new bridge
+as it had done previously in front of the old one, which
+had in addition a small dam about one foot high. In the
+past the water at the bridge had resembled a sizeable
+pool, where one could water cattle, ride horses into so
+that they would be cleansed, and soak the wagon wheels
+that had been dried out by the sun. One now saw all of
+those conveniences gone. It was then that the village
+council, with the mayor as their head, should have looked
+after the interests of the community and should not have
+allowed those rights to be trampled upon. One thould re-
+member that in this case the mayor, Johann Konrad Volp,
+was related to the owner of the mill. His wife was a
+sister of the miller's mother-in-law; and they, as daugh-
+ters of the previous owner of the mill three generations
+back, had been born at that mill. The community council
+consisted mainly of people whom the miller called cousins;
+and the remaining ones could be counted on only as figure
+heads. Thus the interests of the community had been
+deliberately neglected.
+
+In its ferment, the year 1848 brought this un-
+resolved situation once more into prominence. The beams
+of the old dam still floated lazily on the opposite
+shore, waiting for the things that were yet to happen.
+Then, in April of the same year, a group of young men
+went to the above mentioned place, fetched the old dam
+beam from its resting place, to place it at the foot of
+the wall across the bridge, where they fastened it as a
+boom. Here it was on government property; and this was
+against the law. The matter was reported to the mayor
+and to the proper authorities, who subsequently gave the
+order to remove the beam aS soon as possible. The mayor
+had this hurriedly attended to by members of his staff.
+
+Meanwhile I had circulated in the village a
+written petition to set up a citizens’ association. I
+had also selected a day on which we would assemble in
+the community hall, but I had not as yet affixed my sig-
+nature. People racked their brains trying to figure out
+who might have written this. I had never been involved
+in community matters and had never run for office, so no
+one thought of me. The gathering took place on a Sunday
+afternoon; and at that time, I made a motion to pass part
+of the demands for which I had previously made notes. Of
+course the people then knew who had arranged all of this.
+In a few instances I had told some people earlier, so
+there were a few who did not attend. Unfortunately there
+were some among them to whom we just could not explain
+the need for an organization. The point of it was that
+the citizens themselves should take community matters in-
+to their own hands and have a voice in the solution, par-
+ticularly when the mayor and several council members had
+shown that they were not going to protect community in-
+terests. On such occasions ideas are presented that are
+outside of the realm of reason. Johann Konrad Bachman,
+48
+
+for example, said to me, "Well, Daehler, now we no longer
+need to pay community taxes to Knoetz." Knoetz was our
+community treasurer. Several members of the village coun-
+cil joined the citizens' association at once. Soon a mo-
+tion was passed to petition the governmental admistration
+to hold mayoral elections. For this purpose the citizens
+gave written authority, which was verified by the signa-
+tures of about three-fourths of the villagers.
+
+An organized association did not evolve, to be
+sure; and since its purpose had really been a mayoral
+election, the people let matters slide by giving me the
+described authority. Our petition for a mayoral election
+was forwarded to the proper authorities soon afterward;
+and it did not remain without effect. A copy of my let-
+ter was sent to the mayor for his explanation. The first
+letter we received from the governmental administration
+asked us to be patient until the present mayor's term had
+expired. After urgent requests and energetic presentations
+concerning our grievances, caused through negligence and
+ill will by the mayor against his constituents, the im-
+pression was made that lengthy waiting would do no good.
+Three more petitions followed; and the day for a new elec-
+tion was finally determined. Johannes, Lober won with 115
+votes; Heinrich Schmidt and Johann Konrad Daehler each
+received 83 votes. During the course of the election two
+men, Kasper Sauer and Johannes Begoa, had behaved so badly
+that both of them were put. in prison for a week. The sup-
+porters of the mayor did not have a candidate, but all of
+the votes they could gather were allotted to Johannes
+Lober; this was quite acceptable to all of us since he was
+better suited for the office than his brother-in-law,
+Schmidt. As for myself, I did not want and could not have
+accepted the office because of my business. Thus, the
+right man had been elected. No run off election was
+necessary; and several weeks later a document of confirma-
+tion was sent to Johannes Lober.
+
+The bureaucrat, Volp, was removed; and we now had
+as mayor, Johannes Lober, a man of the people who was with-
+out any intrigues or stupid pride. People liked this very
+much. They could go into his office, unashamed of their
+plebian manners, and talk things over with him in a natural
+way. The matter regarding the dam boom he left alone be-
+cause he neither had the courage to build a new dam nor had
+the wish to become involved in legal proceedings. I reminded
+him that one could place the dam boom below the bridge on
+community property, but he did not think he dared to do that.
+More than a year later an inspector from the district build-
+ing department in Darmstadt was making a business trip to
+Ulrichstein, and stayed over night in our village at Inn-
+keeper Hauffman's. Mayor Lober used this opportunity and
+told the former all about this state of affairs. It was his
+49
+
+expert opinion, too, to lay the dam boom on government prop-
+erty; then the mill owner could protest this later if he
+wanted to do so. Consequently, I was charged by the council
+and the mayor to attend to the matter. I had the forester
+show me the oak that the district forester had selected, and
+arranged to have the timber picked up at a time when I
+thought I would have the boom finished. It had two matching
+parts. Before the widow of the miller, Johannes Jung, could
+get a court injunction from the district court in Laubach,
+the dam boom had been installed in the Seenbach. The widow
+initiated court proceedings that were to last for years. I
+do not know exactly how it was resolved. It is said that
+she won the case but that she had left the mill closed and
+it was falling apart. She was the kind of woman whose
+children could not live with her so they left home.
+
+It was in the year 1851 that residents of the city
+of Laubach protested repeatedly the brick works of Count
+Solms, which were operated on city property. Things went
+so far that Count Otto decided to tear down the buildings,
+and re-establish the brick works on a smaller scale on the
+northwest side of town, where he had purchased several par-
+cels of land. This undertaking soon got under way. During
+this job I became seriously ill. The count's brickmaker
+had bought of those buildings that were surplus, one that
+had been used to dry brick. A journeyman and I were in the
+process of modifying that building into a barn. One morning
+as I worked on that job I felt an exceptional tiredness in
+my legs. I bared them and noticed that red spots had ap-
+peared. I instructed my journeyman, Johannes Rister, how to
+proceed with the work and outlined what should be done; then
+I told him I was ill, and went home. At this time I had
+promised that I would build a roof over some vacant spot to
+be used to cast a new bell for our church. I took Christian
+Bachman along with me. One reason was as a matter of safety
+because I was very weak. The other reason was to show him
+in the forest, near the brick kiln road, some timber to use
+for the roof. Then I walked with him to the construction
+site and described what had to be done. Finally I arrived
+home. No one was there. My wife had taken the cart and
+had gone to work in the fields; and the children were in
+school. At last our maid, Katharina Walter, came home. I
+sent her directly to Laubach to get Dr. Steinmetz, and told
+her she was not to return without the doctor. Three hours
+went my before the doctor came. In the meantime my wife had
+come home too.
+
+By this time my body was already so swollen and
+painful that my shirt and underwear had to be cut away to
+
+get them off. I also began to feel an unbearable pain in
+the intestines. It was all I could do to keep myself from
+screaming out loud. I became so weak that I could not
+
+turn over in bed without help. When I had to go to the
+50
+
+pot, it took two people to get me on it and get me back in
+bed. For 27 days Dr. Steinmetz called on me at five in
+the morning until the illness subsided. For weeks I lay
+in bed with a temperature of 25 to 30 R. The doctor diag-
+nosed it as cholera. During my illness I felt close to
+death. I owed my recovery to the prudence, skill, and
+diligence of the doctor as well as to the care of my wife,
+who, however, collapsed from working so hard. She was so
+over tired that ! feared she too would become ill. With
+the help of our maid, she kept going.
+
+My work at the count's castle yard was proceeding.
+The count's building inspector, Loffler, supervised this.
+Johannes Rister, together with brickmaker Alban, had the
+barn finished. had started an addition to the residence
+of District Forester Muller; Rister and his helper had fin-
+ished that, with the help of Loffler. By that time I was
+able at long last to return to work. I made my first little
+jaunt into Laubach with Dr. Steinmetz in his buggy. He was
+proud of his treatment and of my recovery. So another
+period of suffering had been overcome; during which my wife,
+nursing with care and upset with worry and sadness, had to
+suffer much more than the patient himself.
+
+In this troubled time nothing new was built except
+for the building on the property of the count. In the city
+of Laubach and in other communities there were, however, so
+many minor jobs to be done that I could always keep my regu-
+lar journeymen busy. The building department had given me
+several repair jobs in Ulrichstein and in Selgenhof on be-
+half of the Grand Duke of Darmstadt. For this I had to pro-
+vide the lumber. There was also some pump work to do; and
+I could not have done this without the drills of Count Solms.
+I was never refused their use.
+
+The count had a new storage building completed in
+1853; it was constructed on the Utpher Hof in the Wetterau.
+This building was constructed to be used for drying tobacco
+leaves. To my advantage the carpentry was done not far
+from my home in Freienseen in a forest of pine and fir, by
+name Eichelgarten. In this year too, Innkeeper Schilling
+wanted to have a barn built at the Hessenbrucke Hammer. He
+had already built a smaller barn several years before, and
+wanted to have this one directly joined to it. He consulted
+me on this occasion as to how it would be best to construct
+the: roof. I told him that if I were he, I would take the
+old roof off, and put both barns under one roof, using a
+double truss. Thereby he would gain considerable more space.
+This seemed agreeable ‘to him; and he ordered the necessary
+construction drawings to be made by the construction super-
+visor and architect, Posainer. Since I was busy with work
+for the count, the work was given to my uncle, Konrad
+Daheler, who was very much delighted with this fine job.
+51
+
+In the winter of 1854 I received a letter from
+Architect Posainer, who asked me to meet with him concern-
+ing carpentry that I was to do. He was never at home ex-
+cept on Sundays; hence I went to Grunberg on the following
+Sunday and met with him in his home. He told me that he
+had been charged by Mr. Luterous in Ruppertsburg to con-
+struct a two story barn on the property of the latter. To
+provide a building site, a barn had to be torn down. The
+lumber was to come from the Ruppertsburg community forest.
+If I were agreeable -- and he showed me an agreement he
+had already drawn up -- to take over the job described in
+the agreement, all I would have to do would be to sign. I
+would also have to go to the forest to select the required
+timber. I could see right away from the agreement that it
+was a good deal. One thousand feet, according to Darmstadt
+standards, were to be paid with two kreuzer in wages, old
+coin. I did not hesitate long, and accepted the job. My
+uncle, Konrad Daehler, had decided to leave for America;
+and I would be able to keep his journeymen busy. He had
+promised them employment, and I did not want them to be
+without work. i
+
+As soon as the weather permitted, I selected the
+necessary oak trees in the forest and readied them by cut-
+ting them square, the larger ones by cutting them open on
+two sides, to be hauled home. For the construction of the
+roof pine lumber was used. With the arrival of the lumber
+at the construction site in Ruppertsburg am Beergarten the
+job was begun and moved smoothly ahead. Posainer came once
+a week, on occasion twice, to inspect our progress at the
+construction site. On these occasions he had nothing to
+say except that we had not worked fast enough. The same
+thing was said at the site where the bricklayers were work-
+ing. It had been decided to move the old barn. Since I
+did not have enough wooden screws to move it to its new
+destination, I borrowed some from the master carpenter,
+Muller, in Queckboern. He received remuneration for this
+service. I also obtained a set from Mr. Diehl, a master
+carpenter in Ruppertsburg. In this way the task was
+finished in June.
+
+At the same time a few jobs were done for the
+count. I had built, in addition to the earlier gypsum
+mill, a simple saw mill according to the plans of the
+count's building inspector, Loffler. Boards were to be
+cut for this; and my journeyman, Christian Bachman, was
+kept busy steadily. For the count there were also jobs
+at the various farm buildings, horse stables, etc. In
+other communities, several groups of journeymen were doing
+the repair work, as for example in this year at HEinarts-
+hausen. During the job in Ludernse, Architect Posainer
+also gave me work for the Grand Duke. This soon was started
+in the area of Ulrichstein on the road to Schotten, where a
+52
+
+new yard was to be made for the duke's stables. Work was
+to begin with a barn and the stables.
+
+At this time, however, the government had in the
+village, Eichelsachen, a barn and a fruit storage building
+that had become surplus; in addition there was another
+building belonging to the forestry, consisting of an old
+barn and a dwelling. All this, without the forester's
+house, was to be used for the newly constructed barn on
+the Neuen Selgenhof. This job too I took by agreement to
+remove the old buildings as well as to do the carpentry
+and remodelling, without having to buy new lumber. I was
+to put up the building on the Selgenhof. The ground on
+which the barn was to be erected was situated in such a
+way that at the front on the east side entrances could be
+made. On the west side was a low area suitable so that
+in it the brick work for two horse stables could be built,
+with entrance doors on the west side. In keeping with the
+agreement, the lumber from the old buildings was not to be
+reworked, even though it was crooked and a little bent.
+This would save time. It did make it very difficult to
+fit pieces of lumber together. Anyway, it was not a pleas-
+ant task: old crooked lumber that was overly hard and heavy
+necessitated all physical effort and caution to prevent
+accidents in tearing down the old buildings and in putting
+up the new.
+
+So it came about that I developed a rather dim
+view of Inspector Posainer. When we tore down the forestry
+barn and the top beam was taken down, it measured 64 feet
+long and 14 to 16 inches thick, and was square hewn oak. I
+knew that this piece of lumber was to be cut into two beams
+for the stables. He happened to be present, so I asked him
+to permit me to cut the beam in two in its present position.
+In that way there would be less danger for my workers. To
+this, however, he would not agree; be it because of envy
+toward me or because of his natural stupid official pride,
+
+I know not. My requests had come to an end. I made prep-
+aration, and instructed the journeymen they should pay atten-
+tion to my orders-only. With the help of Providence no acci-
+dent occurred. This fellow, Posainer, was used to accepting
+bribes; I did this once and it caused me to incur some loss.
+Had I satisfied this weakness of his more often, I might
+
+have had more advantages. I always demanded merely justice
+for myself wherever it was and asked for no special favors.
+That made me come out on the short end, as was the case with
+this building. By the time the barn was erected, it was al-
+ready late fall. Martin Boning, who was in charge of the
+bricklaying also finished his walls late. When my dear
+Posainer came, after the barn was finished, he said, "Well,
+53
+
+this is junky, Daehler, here we have a threshold that is
+really crooked. I want you to take it out and replace it
+with one that is straight. And that lintel up there is
+quite crooked; you could have put it in differently so
+that the wall would be plumb." I was not obligated to do
+these things for the sake of appearance. My agreement
+stated that I was to use the lumber as it was without hew-
+ing it straight. I was absolutely silent, and did it,
+spending three or four hours work in the process. I did
+not want to get into any argument over such a trifle; and
+since I had already greased his palm, this was really no
+loss to me.
+
+This was my last significant job around my home
+town. Now and then there were still a few jobs to be done
+for the count, including the winter in which the hauling
+of timber for the sawmill was done. On one such occasion,
+Count Otto Solms appeared on the job location and asked me
+why I wanted to go to America. I replied very simply that
+I thought I could there take care of my family in a better
+way. That he knew about my desire to leave can be explained
+as follows: Several weeks earlier I had made him a written
+offer to sell a parcel of land located in the forest dis-
+trict at Krunseen and that measured about ten Darmstadter
+morgen in area; saying that I intended to go to America.
+
+He had his agent offer me 1,000 gulden, but I thought the
+land to be worth much more so I sold it to N. N. Kraespal
+in Laubach for 1,100 gulden. I was now busy preparing for
+the departure to America, set for the spring of d855."; 1
+had Mayor Lobler conduct a house and commodities auction
+before Christmas, 1854. It is not necessary to say that I
+was kept waiting a long time by the courts regarding the
+completion of the sale documents. For that winter I had
+more than enough to do for myself; this included building
+crates. When I had adequately taken care of all my finan-
+cial affairs, including the fare for ship passage of 58
+florin per person, my cash on hand at the time of departure,
+April 20th, when we said farewell to Freienseen, was around
+2,300 or 2,400 gulden. I am no longer quite sure of the
+amount.
+54

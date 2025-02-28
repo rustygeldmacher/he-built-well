@@ -1,0 +1,74 @@
+DEDICATION
+
+All of us at one time or another need or
+desire information about our families, past and present.
+This information is rarely readily available because it
+is not an easy task to record it in a simple and
+concise form.
+
+Realizing the lack of and also the need for
+records of this type, Louis A. Daehler and I originated
+the idea of compiling a genealogical work dealing with
+the Daehler family. The plan called upon him to handle
+the translation of the autobiography of his great-grand-
+father and upon me to compile the genealogy of that
+gentleman's descendants.
+
+Much effort has been expended in the formation
+of this book. The great variety of tasks involved, how-
+ever, has made the labor of compilation enjoyable as well
+as informative. Numerous relatives and friends have com-
+pleted questionnaires. Cemeteries have been visited, and
+tombstone inscriptions have been copied. Newspaper files
+have been searched. Court and church records, public and
+private library resources, and the pages of family records
+have been the objects of close scrutiny and study. A
+voluminous correspondence with relatives, genealogists,
+clergymen, public officials, local historians, and trans-
+lators of the German language has been carried on.
+
+It is impossible to cite on a page or two every
+instance of time, effort, and energy that has been spent
+in research, in investigation, in gathering information,
+in checking items for accuracy, in selecting the portions
+for inclusion in the final work, in assembling and orga-
+nizing the material in an arrangement deemed most suit-
+able, in writing, in proof reading, and in the correction
+of errors in the written results before submitting the
+final product for publication.
+
+It took patience and perseverance to complete
+this task. Louis's pride and interest in his heritage
+remained an inspirational drive for both of us. It is
+a matter of deep regret that he did not live to see our
+venture completed. He passed away in his Porterville,
+California, home on May 21, 1975. It has remained for
+me to assemble the work in final form and to present it
+for publication.
+
+I know that he would want me to reiterate our
+gratitude to three volunteer collectors who so ably
+assisted us: his sister, Mrs. Fay H. Reitzel of Sterling,
+Ill.; and his cousins, Mrs. John G. Doden of Chadwick,
+Ill., and Mrs. Roy E. Schiefelbein of Wichita, Kansas.
+There are so many others who did so much that it is im-
+possible to mention each and every one by name. To each
+of you go our sincere thanks. Without your assistance
+this book would not have been possible.
+
+In dedicating this book to the memory of
+LOUIS ALBERT DAEHLER, I truly hope that these studies
+may be a source of pride and personal treasure to you.
+May you, in the spirit of the recent research and pub-
+lications regarding the history of Carroll County,
+Illinois, say with the psalmist:
+
+"My lines have fallen in pleasant places;
+
+Yea, I have a goodly heritage." (Psalms, 16:6)
+616 Sheridan Road 2, tee -
+Highwood, Illinois f BOL <n . hia Mba
+
+JULY Ls L875 7/7 James R. Glacking, C. G.
+
+7

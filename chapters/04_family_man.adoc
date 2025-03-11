@@ -1,4 +1,4 @@
-# FAMILY MAN
+== FAMILY MAN
 
 Now, to return to the subject of my marriage, and
 to relate competely the historical circumstances. I must
@@ -972,7 +972,7 @@ to deal with wild and unruly cows. The first results showed
 
 up when on the 20th of October, 1846, at three o'clock in
 
-= the morning a third baby was born. He was baptized as an
+the morning a third baby was born. He was baptized as an
 emergency precaution at nine o'clock by Pastor Blumhof; the
 child became a corpse at eleven o'clock. My aunt, Anna
 Maria, gave him the name Frederick. Still it had not oc-

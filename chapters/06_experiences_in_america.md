@@ -1,4 +1,5 @@
-EXPERIENCES IN AMERICA
+# EXPERIENCES IN AMERICA
+
 e
 * The railroad trip from New..York to Chicago was
 25 gulden per person. Christian Lutz, Georg Boning, Louis

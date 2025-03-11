@@ -1,7 +1,7 @@
-AUTOBIOGRAPHY OF JOHANN KONRAD DAEHLER
-TRANSLATED BY LOUIS A. DAEHLER, 1974
 
-PREFACE
+# AUTOBIOGRAPHY OF JOHANN KONRAD DAEHLER TRANSLATED BY LOUIS A. DAEHLER, 1974
+
+## PREFACE
 
 The world, or I would like to say, the entire
 human race, has a history of which different incidents

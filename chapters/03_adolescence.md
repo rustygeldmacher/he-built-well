@@ -1,4 +1,4 @@
-ADOLESCENCE
+## ADOLESCENCE
 
 During the first two years, namely 1825 and 1826,
 my apprenticeship in the carpentry trade was mostly re-

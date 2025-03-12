@@ -1,3 +1,4 @@
+[dedication]
 == DEDICATION
 
 All of us at one time or another need or

@@ -1,4 +1,5 @@
-== PREFACE
+[preface]
+== Foreword
 
 On a warm, sunny day in June, 1897, we walked,
 we Daehlers, along a woodland path that wound among the
@@ -51,7 +52,7 @@ best I can claim for it is that I have tried to be faith-
 ful to the letter and to the spirit of the original. I
 have taken few liberties with the text. Obvious mis-
 spellings I have corrected, always noting the original.
-Grandfather's manuscript is convincing testimony of the
+Grandfather's manuscript is convincing testimony of the
 older systems of pedagogy. He was often beaten, he says,
 for poor handwriting, but never for orthography; and he
 misspells orthography! His handscript at age seventy-

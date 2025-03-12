@@ -1,0 +1,47 @@
+= He Built Well
+:doctype: book
+:imagesdir: images
+:toc: macro
+
+image::cover.jpg[]
+<<<
+
+[preface]
+include::front-matter/title_page.adoc[]
+
+toc::[]
+
+[dedication]
+include::front-matter/dedication.adoc[]
+
+[preface]
+include::front-matter/foreword.adoc[]
+
+= Autobiography of Johann Konrad Daehler Translated by Louis A. Daehler, 1974
+
+include::chapters/01_preface.adoc[]
+
+include::chapters/02_childhood.adoc[]
+
+include::chapters/03_adolescence.adoc[]
+
+include::chapters/04_family_man.adoc[]
+
+include::chapters/05_emigration.adoc[]
+
+include::chapters/06_experiences_in_america.adoc[]
+
+[appendix]
+include::back-matter/notes_on_dahler_ancestry.adoc[]
+
+[appendix]
+include::back-matter/death_notice.adoc[]
+
+[appendix]
+include::back-matter/geneology.adoc[]
+
+[appendix]
+include::back-matter/sources.adoc[]
+
+[appendix]
+include::back-matter/notes_on_2025_edition.adoc[]

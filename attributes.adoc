@@ -1,5 +1,0 @@
-= He Built Well
-
-:doctype: book
-:imagesdir: images
-:toc: macro

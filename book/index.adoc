@@ -2,19 +2,21 @@
 :doctype: book
 :imagesdir: images
 :toc: macro
+:sectnums:
 
 image::cover.jpg[]
 <<<
 
-[preface]
 include::front-matter/title_page.adoc[]
 
 toc::[]
 
-[dedication]
+[preface]
+== i. Dedication
 include::front-matter/dedication.adoc[]
 
 [preface]
+== ii. Foreword
 include::front-matter/foreword.adoc[]
 
 = Autobiography of Johann Konrad Daehler Translated by Louis A. Daehler, 1974

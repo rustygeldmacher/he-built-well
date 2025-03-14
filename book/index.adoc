@@ -3,6 +3,7 @@
 :imagesdir: images
 :toc: macro
 :sectnums:
+:max-width: 45em
 
 image::cover.jpg[]
 <<<

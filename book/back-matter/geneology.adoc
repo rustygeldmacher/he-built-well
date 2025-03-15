@@ -1,4 +1,4 @@
-= Family of Johann Konrad and Katharina Daehler
+== Family of Johann Konrad and Katharina Daehler
 
 * JOHANN KONRAD DAEHLER
   b: 6 Feb., 1811, Freienseen, Hesse-Darmstadt
@@ -49,7 +49,7 @@
    d: 17 Feb., 1848, Freienseen, Hesse-Darmstadt
 
 [appendix]
-== Children of Henry Jacob and Elisa Daehler
+=== Children of Henry Jacob and Elisa Daehler
 
 * DOROTHEA DAEHLER
   b: 4 April, 1860, Fair Haven Township, Illinois
@@ -84,7 +84,7 @@
   d: 19 Sept., 1944, Elgin, Illinois
 
 [appendix]
-== Children of Henry Jacob and Wilhelmina Daehler
+=== Children of Henry Jacob and Wilhelmina Daehler
 
 * HENRY JACOB DAEHLER
   b: 28 Jan., 1869, Fair Haven Township, Illinois
@@ -130,7 +130,7 @@
   b: 12 March, 1872, Fair Haven Township, Illinois
   d: 25 July, 1943, Chadwick, Illinois
 
-== Descendants of Charles and Dorothea Smith
+==== Descendants of Charles and Dorothea Smith
 
 * WILLIAM HENRY ADAM SMITH
   b: 10 March, 1880, Fair Haven Township, Illinois
@@ -365,7 +365,7 @@
   d: in infancy
 
 [appendix]
-== Descendants of Louis C. and Lucinda M. Daehler
+==== Descendants of Louis C. and Lucinda M. Daehler
 
 * ALVIN AUGUST DAEHLER
   b: 12 May, 1885, Chadwick, Illinois
@@ -422,7 +422,7 @@
 * LEO HENRY DAEHLER
   b: 28 Jan., 1887, Chadwick, Illinois
 
-== Descendants of Christian and Katharina Straub
+==== Descendants of Christian and Katharina Straub
 
 * ANNA ISABELLE STRAUB
   b: 19 May, 1882, Fair Haven: Township
@@ -722,7 +722,7 @@
 *** MARK LOUIS STRAUB
     b: 20 Aug., 1967, Morrison, Illinois
 
-== Descendants of August C. and Elisa W. Geldmacher
+==== Descendants of August C. and Elisa W. Geldmacher
 
 * WALTER CARL GELDMACHER
   b: 25 April, 1888, Chadwick, Illinois
@@ -779,7 +779,7 @@
 ***** VIVIAN JOAN GELDMACHER
       b: 24 Apr., 2014, Weymouth, Massachusetts
 
-*** CHRISTOPHER ALAN GELDMACHER ‘
+*** CHRISTOPHER ALAN GELDMACHER
     b: 9 May, 1951, Milton, Massachusetts
 
 *** SARAH JANE GELDMACHER
@@ -1022,7 +1022,7 @@
 *** ANN MARIE JENNINGS
     b: 21 Feb., 1960, Norwalk, Ohio
 
-== Descendants of Henry Jacob and Katherine Daehler
+==== Descendants of Henry Jacob and Katherine Daehler
 
 * LAURA MARIA DAEHLER
   b: 9 Feb., 1905, Fair Haven Township, Illinois
@@ -1164,7 +1164,7 @@
    SUSAN ELAINE METZ
    b: 14 Oct., 1954, Sterling, Illinois
 
-== Descendants of William C. and Anna K. Daehler
+==== Descendants of William C. and Anna K. Daehler
 
 * GOLDA LOUISE DAEHLER
   b: 30 Aug., 1895, Chadwick, Illinois
@@ -1231,8 +1231,8 @@
 ** KENNTH FREDERICK LEE
    b: 2 July, 1918, Spring Valley, Minnesota
    d: 23 Jan., 1975, Des Moines, Iowa
-   m: 4 July, 1948, Waterloo, Iowa’. r DIV.
-   RUBY LAUREL ANDERSON f a .
+   m: 4 July, 1948, Waterloo, Iowa
+   RUBY LAUREL ANDERSON
    b: 23 Oct., 1923, Ortonville, Minnesota
    m: 12 Aug., 1972, Waterloo, Iowa
    DARLENE TAYLOR
@@ -1528,7 +1528,7 @@
   b: 27 Oct., 1914, Spring Valley, Minnesota
   d: 13 April, 1937, Waterloo, Iowa
 
-== Descendants of Charles J. and Anna Maria Quckboerner
+==== Descendants of Charles J. and Anna Maria Queckboerner
 
 * LAURA QUECKBOERNER
   b: 18 Feb., 1896, Chadwick, Carroll County, Illinois
@@ -1579,7 +1579,7 @@
   m: 12 April, 1921
   EDWARD OLSON
 
-== Descendants of Conrad John and Hazel Daehler
+==== Descendants of Conrad John and Hazel Daehler
 
 * ENGAR DAEHLER
   b: 31 May, 1911
@@ -1938,7 +1938,7 @@
 *** RENEE MARIE DAEHLER
     b: 27 July, 1971
 
-== Descendants of Conrad and Emma Geisz
+==== Descendants of Conrad and Emma Geisz
 
 * IRENE MARIE GEISZ
   b: 2 July, 1906, Fair Haven Township, Illinois
@@ -2035,7 +2035,7 @@
   b: 24 March, 1916, Fair Haven Township, Illinois
   d: 20 Feb., 1917, Fair Haven Township, Illinois
 
-== Descendants of Louis C. and Anna E. Daehler
+=== Descendants of Louis C. and Anna E. Daehler
 
 * FERDINAND DAEHLER
   b: 25 April, 1873, Chadwick, Illinois

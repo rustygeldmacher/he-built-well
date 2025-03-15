@@ -34,6 +34,8 @@ include::chapters/05_emigration.adoc[]
 
 include::chapters/06_experiences_in_america.adoc[]
 
+= Appendices
+
 [appendix]
 include::back-matter/notes_on_dahler_ancestry.adoc[]
 

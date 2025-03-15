@@ -1,4 +1,4 @@
-= Notes on the Dahler Ancestry
+== Notes on the Dahler Ancestry
 
 JOHANNES DAHLER served in the Austrian army, and then
 was in the Hessian governmental administrative service

@@ -5,3 +5,4 @@ Here's what I've modified:
 * Rebuilt the table of contents
 * Renamed the original first "preface" to "foreword" since it was not written
   by the author
+* Reformatted and fixed some typos in the genealogy

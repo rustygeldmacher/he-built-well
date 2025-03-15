@@ -43,7 +43,7 @@ include::back-matter/notes_on_dahler_ancestry.adoc[]
 include::back-matter/death_notice.adoc[]
 
 [appendix]
-include::back-matter/geneology.adoc[]
+include::back-matter/genealogy.adoc[]
 
 [appendix]
 include::back-matter/sources.adoc[]

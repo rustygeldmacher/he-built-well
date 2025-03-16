@@ -1,13 +1,36 @@
-HE BUILT WELL
+{empty} +
+{empty} +
 
-AN AUTOBIOGRAPHY
-AND GENEALOGY OF
-THE DESCENDANTS OF
+[.lead]
+[.text-center]
+**HE BUILT WELL**
 
-JOHANN KONRAD DAEHLER
-OF FAIR HAVEN TOWNSHIP
-CARROLL COUNTY, ILLINOIS
+[.lead]
+[.text-center]
+**AN AUTOBIOGRAPHY**
 
-COMPILED BY
+[.lead]
+[.text-center]
+**AND GENEALOGY OF**
 
-JAMES R. GLACKING, C. G.
+[.lead]
+[.text-center]
+**THE DESCENDANTS OF**
+
+[.lead]
+[.text-center]
+**JOHANN KONRAD DAEHLER** +
+**OF FAIR HAVEN TOWNSHIP** +
+**CARROLL COUNTY, ILLINOIS**
+
+{empty} +
+
+[.lead]
+[.text-center]
+**COMPILED BY**
+
+[.lead]
+[.text-center]
+**JAMES R. GLACKING, C. G.**
+
+{empty} +

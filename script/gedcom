@@ -1,0 +1,253 @@
+#!/usr/bin/env ruby
+require 'date'
+
+class String
+  def titleize
+    split(/(\W)/).map(&:capitalize).join
+  end
+end
+
+class DateAndPlace
+  attr_reader :year, :month, :day, :place
+
+  def initialize(line)
+    parse_line(line)
+  end
+
+  def to_gedcom(type)
+    gedcom = ["1 #{type}"]
+
+    if year
+      if month && day
+        gedcom << "2 DATE #{day} #{month} #{year}"
+      else
+        gedcom << "2 DATE #{year}"
+      end
+    end
+
+    if place
+      gedcom << "2 PLAC #{place}"
+    end
+
+    gedcom
+  end
+
+  private
+
+  def parse_line(line)
+    line = line.gsub(/^[mbd]:/, '').strip
+    case line
+    when /^(\d+) ([a-zA-Z.]+), (\d{4})(, (.*))?/
+      @day, @month, @year, @place = $1, $2, $3, $5
+      # Format the month as uppercase abbreviation
+      @month = Date.parse("#{day} #{month}, #{year}").strftime("%b").upcase
+    when /\d{4}/
+      @year = line.to_i
+    when /^$/
+      # NOP
+    else
+      raise "Cannot parse date and place from #{line}"
+    end
+  end
+end
+
+class Person
+  @@next_id = 0
+
+  attr_accessor :id, :given_name, :surname, :birth, :death
+
+  def initialize(name)
+    @id = @@next_id
+    @@next_id += 1
+    parse_name(name)
+  end
+
+  def to_s
+    "#{id}: #{given_name} #{surname}"
+  end
+
+  def gedcom_id
+    "@I" + id.to_s.rjust(5, "0") + "@"
+  end
+
+  def birth=(line)
+    @birth = DateAndPlace.new(line)
+  end
+
+  def death=(line)
+    @death = DateAndPlace.new(line)
+  end
+
+  def to_gedcom
+    gedcom = [
+      "0 #{gedcom_id} INDI",
+      "1 NAME #{given_name} /#{surname}/",
+      "2 GIVN #{given_name}",
+      "2 SURN #{surname}"
+    ]
+
+    if birth
+      gedcom += birth.to_gedcom("BIRT")
+    end
+
+    if death
+      gedcom += death.to_gedcom("DEAT")
+    end
+
+    gedcom
+  end
+
+  private
+
+  def parse_name(name)
+    name_parts = name.split(" ")
+    if name_parts[-2] == "MC"
+      @given_name = name_parts[0..-3].join(" ").titleize
+      @surname = name_parts[-2..-1].join(" ").upcase
+    else
+      @given_name = name_parts[0..-2].join(" ").titleize
+      @surname = name_parts.last.upcase
+    end
+  end
+end
+
+def parse_date(date_str)
+  # Try to parse various date formats
+  begin
+    date = Date.parse(date_str.strip)
+    return date.strftime("%-d %b %Y")
+  rescue
+    # If parsing fails, return the original string
+    return date_str.strip
+  end
+end
+
+lines = File.readlines(ARGV[0])
+people = []
+current_person = nil
+expecting_spouse = false
+
+lines.each_with_index do |line, i|
+  line_no = i + 1
+  line = line.strip
+
+  next if line =~ /^\s*$/
+  break if line.start_with?("===")
+  next if line.start_with?("=")
+
+  if expecting_spouse
+    current_person = Person.new(line)
+    people << current_person
+    expecting_spouse = false
+    next
+  end
+
+  if line.start_with?("m:")
+    expecting_spouse = true
+    # line_to_date_and_place(line)
+    next
+  end
+
+  if line.start_with?("*")
+    name = line.gsub(/^\*+ /, '')
+    current_person = Person.new(name)
+    people << current_person
+    next
+  end
+
+  if line.start_with?("b:")
+    current_person.birth = line
+    next
+  end
+
+  if line.start_with?("d:")
+    current_person.death = line
+    next
+  end
+
+  # Should only happen if we don't recognize the line
+  puts line
+rescue => e
+  puts "Cannot parse #{line}"
+  puts e
+  exit
+end
+
+people.each { |p| puts p.to_gedcom.join("\n") }
+exit
+
+def line_to_gedcom_date_and_place(line)
+  line = line.gsub(/^[mbd]: /, '')
+  parts = line.split(",").map(&:strip)
+  date = parts[0..1].join(", ")
+  place = parts[2..-1].join(", ")
+  [
+    "2 DATE #{parse_date(date)}",
+    "2 PLAC #{place}"
+  ]
+end
+def convert_to_gedcom(input_text)
+  lines = input_text.strip.split("\n")
+  gedcom = []
+
+  return "Invalid input format" if lines.length < 2
+
+  # Parse the name line
+  name_parts = lines[0].split
+  return "Invalid name format" if name_parts.length < 2
+
+  last_name = name_parts.pop
+  first_middle_names = name_parts.join(" ")
+
+  # Format names for GEDCOM
+  gedcom_first_middle = first_middle_names.split.map(&:capitalize).join(" ")
+  gedcom_last = last_name.upcase
+
+  # Build GEDCOM output
+  gedcom << "1 NAME #{gedcom_first_middle} /#{gedcom_last}/"
+  gedcom << "2 GIVN #{gedcom_first_middle}"
+  gedcom << "2 SURN #{gedcom_last}"
+
+  # Parse birth info
+  birth_line = lines[1]
+  if birth_line.start_with?("b:")
+    gedcom << "1 BIRT"
+    gedcom += line_to_gedcom_date_and_place(birth_line)
+  else
+    return "Invalid birth format"
+  end
+
+  # Add death info if available
+  death_line = lines[2]
+  if death_line && death_line.start_with?("d:")
+    gedcom << "1 DEAT"
+    gedcom += line_to_gedcom_date_and_place(death_line)
+  end
+
+  gedcom.join("\n")
+end
+
+puts "Enter person details in the format:"
+puts "FIRST_NAME MIDDLE_NAME LAST_NAME"
+puts "b: <date of birth>, <place of birth>"
+puts "d: <date of death>, <place of death> (optional)"
+puts "(Press Enter twice to finish)"
+
+lines = []
+loop do
+  line = gets
+  break if line.nil? || line.strip.empty?
+  lines << line.chomp.strip
+end
+
+if lines.length >= 2
+  input_text = lines.join("\n")
+  gedcom_output = convert_to_gedcom(input_text)
+
+  puts "\nGEDCOM Output:"
+  puts "-" * 40
+  puts gedcom_output
+  puts "-" * 40
+else
+  puts "Insufficient input. Please provide at least name and birth information."
+end

@@ -6,3 +6,4 @@ Here's what I've modified:
 * Renamed the original first "preface" to "foreword" since it was not written
   by the author
 * Reformatted and fixed some typos in the genealogy
+* Ignored divorce dates in genealogy -- might go back and add later

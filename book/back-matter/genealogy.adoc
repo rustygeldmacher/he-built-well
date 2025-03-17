@@ -56,7 +56,7 @@
   m: 24 Feb., 1879, Fair Haven Township, Illinois
   CHARLES SMITH
   b: 10 July, 1851, Asel, Hesse-Darmstadt
-  d: 23 Nov., 1897, Me Cool Junction, Nebraska
+  d: 23 Nov., 1897, Mc Cool Junction, Nebraska
 
 * LOUIS CHRISTIAN DAEHLER
   b: 3 March, 1862, Fair Haven Township,
@@ -165,10 +165,10 @@
 *** MARCELLA MAE NORQUEST
     b: 10 May, 1928, York, Nebraska
     m: 8 June, 1947, Mc Cool Junction, Nebraska
-    KENNETH MCLAIN
+    KENNETH MC LAIN
     b: 27 Aug., 1924, York, Nebraska
 
-**** RICHARD MERLE MCLAIN
+**** RICHARD MERLE MC LAIN
      b: 5 May, 1949, York, Nebraska
      m: 7 June, 1969, Hampton, Nebraska
      LOIS ANN HEIDEN
@@ -378,7 +378,7 @@
    MILDRED ELIZABETH TILLOTSON
    b: 20 April,1915, Washington, Iowa
    m: 9 Dec., 1946, Des Moines, Iowa
-   MOYA GLADYS COOK ,
+   MOYA GLADYS COOK
    b: 10 April, 1920, Goulburn, N.S.W., Australia
 
 *** RICHARD ALLEN DAEHLER
@@ -762,7 +762,7 @@
     b: 30 Sept., 1949, Milton, Massachusetts
     m: 14 Aug., 1971, Milton, Massachusetts
     DIANE ONEIL
-    b: 12 March, 195@, Milton, Massachusetts
+    b: 12 March, 1950, Milton, Massachusetts
 
 **** MELLISSA AMY GELDMACHER
      b: 12 Nov., 1974, Milton, Massachusetts
@@ -853,7 +853,7 @@
 
 ***  KAREN LEE ANDREWS
     b: 1 Nov., 1945, Elgin, Illinois
-    m: 15 June,” 1963 DIV. 1968
+    m: 15 June, 1963
     WILLIAM E. COX
 
 *** CAROL LYNN ANDREWS
@@ -865,7 +865,7 @@
 **** ROBERT DAVIS
      b: 29 Aug., 1968, Milwaukee, Wisconsin
 
-**** CHRISTENE DAVIS .
+**** CHRISTENE DAVIS
      b: 27 Aug., 1971, Elgin, Illinois
 
 **** STEVEN DAVIS
@@ -1325,7 +1325,7 @@
 
 ** JOYCE ELRAY LEE
    b: 9 March, 1934, Spring Valley, Minnesota
-   m: ll Feb., 1957, Dubuque, Iowa
+   m: 11 Feb., 1957, Dubuque, Iowa
    JERALD CLAYTON KNAPPLE
    b: 8 Oct., 1933, Waldenburg, Arkansas
 
@@ -1364,6 +1364,7 @@
 * DELLA MINNIE DAEHLER
   b: 7 May, 1900, Chadwick, Illinois
   d: 23 July, 1925, Waterloo, Iowa
+  m:
   CHESTER FRANCIS
   b: 6 March, 1899
   m: 6 Aug., 1930
@@ -1542,7 +1543,7 @@
 
 *** LARRY WAYNE RAUSER
     b: 5 Dec., 1946, Morrison, Whiteside County, Illinois
-    m: 5 Aug. 1972, Rock Falls, Whiteside County, Illinois
+    m: 5 Aug., 1972, Rock Falls, Whiteside County, Illinois
     DIANE CARD
     b: 8 May, 1951, Rock Falls, Whiteside County, Illinois
 

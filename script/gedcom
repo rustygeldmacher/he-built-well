@@ -109,10 +109,12 @@ class OutlineParser
   def parse
     lines = File.readlines(file)
     root = nil
+    families = {}
     current_depth = 0
     current_parent = nil
     current_person = nil
     marriage_line = nil
+    marriage_id = nil
     current_spouse = nil
 
     lines.each_with_index do |line, i|
@@ -120,10 +122,17 @@ class OutlineParser
       line = line.strip
 
       next if line =~ /^\s*$/
+      next if line =~ /^=/
 
       # Short circuit for now while we get the initial parsing correct
-      break if line.start_with?("===")
-      next if line.start_with?("=")
+      break if line == "[[stop]]"
+
+      if line =~ /\[\[root-(family-.*)\]\]/
+        root_family_id = $1
+        current_parent = families[root_family_id].person
+        current_depth = 1
+        next
+      end
 
       if match = line.match(/^(\*+) (.*)/)
         depth = match[1].size
@@ -156,9 +165,17 @@ class OutlineParser
       end
 
       if marriage_line
+        if line =~ /\[\[(.*)\]\]/
+          marriage_id = $1
+          next
+        end
         current_spouse = Person.new(line)
-        current_person.add_marriage(marriage_line, current_spouse)
-        marriage_line = false
+        marriage = current_person.add_marriage(marriage_line, current_spouse)
+        if marriage_id
+          families[marriage_id] = marriage
+        end
+        marriage_line = nil
+        marriage_id = nil
         next
       end
 
@@ -179,10 +196,9 @@ class OutlineParser
         next
       end
 
-      # Should only happen if we don't recognize the line
-      puts line
+      raise "Unrecognized line format"
     rescue => e
-      puts "Cannot parse #{line}"
+      puts "Cannot parse line @ #{line_no}: #{line}"
       puts e
       exit
     end
@@ -262,8 +278,14 @@ class Person
     "@I" + id.to_s.rjust(5, "0") + "@"
   end
 
+  # def parent
+  #   child_of&.person
+  # end
+
   def birth=(line)
     @birth = DateAndPlace.new(line)
+    verify_child_of
+    @birth
   end
 
   def death=(line)
@@ -284,12 +306,11 @@ class Person
   def add_child(child)
     if marriages.empty?
       raise "Tried adding a child without a marriage"
-    else
-      # TODO: Find the correct marriage if there is more than one
-      family = marriages.first
-      family.children << child
-      child.child_of = family
     end
+
+    family = marriages.first
+    family.children << child
+    child.child_of = family
   end
 
   def to_gedcom
@@ -374,6 +395,26 @@ class Person
     end
 
     raise "Cannot determine gender: #{given_name}"
+  end
+
+  def verify_child_of
+    return if birth&.date.nil?
+
+    parent = child_of&.person
+    return unless parent
+    return if parent.marriages.size == 1
+
+    family = parent.marriages.
+      reject { |f| f.marriage.nil? }.
+      sort_by { |f| f.marriage.date }.
+      reverse.
+      find { |f| birth.date >= f.marriage.date }
+
+    if family != child_of
+      child_of.children.delete(self)
+      @child_of = family
+      family.children << self
+    end
   end
 end
 

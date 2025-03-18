@@ -12,10 +12,12 @@
    b: 9 Nov., 1839, Freienseen, Hesse-Darmstadt
    d: 11 April, 1910, Chadwick, Illinois
    m: 17 Dec., 1859, Fair Haven Township, Illinois
+   [[family-HJD-EZ]]
    ELISA ZUGSCHWERDT
    b: 22 March, 1842, Sellenrod, Hesse
    d: 27 March, 1865, Fair Haven Township, Illinois
    m: 14 Feb., 1868, Fair Haven Township, Illinois
+   [[family-HJD-WFSH]]
    WILHELMINA FREDERICKA SOPHIA HEYER
    b: 14 Dec., 1840, Daberkow, Brandenburg
    d: 25 April, 1915, Fair Haven Township, Illinois
@@ -48,6 +50,7 @@
    b: 17 Feb., 1848, Freienseen, Hesse-Darmstadt
    d: 17 Feb., 1848, Freienseen, Hesse-Darmstadt
 
+[[root-family-HJD-EZ]]
 === Children of Henry Jacob and Elisa Daehler
 
 * DOROTHEA DAEHLER
@@ -82,6 +85,7 @@
   b: 26 May, 1864, Fair Haven Township, Illinois
   d: 19 Sept., 1944, Elgin, Illinois
 
+[[root-family-HJD-WFSH]]
 === Children of Henry Jacob and Wilhelmina Daehler
 
 * HENRY JACOB DAEHLER
@@ -128,6 +132,7 @@
   b: 12 March, 1872, Fair Haven Township, Illinois
   d: 25 July, 1943, Chadwick, Illinois
 
+[[stop]]
 ==== Descendants of Charles and Dorothea Smith
 
 * WILLIAM HENRY ADAM SMITH

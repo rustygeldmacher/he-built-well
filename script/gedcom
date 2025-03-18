@@ -2,7 +2,36 @@
 require "date"
 require "gender_detector"
 
-GENDER_DETECTOR = GenderDetector.new(unknown_value: :unknown)
+module CustomGenderDetector
+  GENDER_DETECTOR = GenderDetector.new(unknown_value: :unknown)
+  OVERRIDES = {
+    "kay" => :female,
+    "jo" => :female,
+    "stacy lee" => :female
+  }
+
+  def self.get_gender(given_name)
+    override = OVERRIDES[given_name.downcase]
+    return override if override
+
+    gendered_names = given_name.split(" ").map do |part|
+      gender_for_name(part)
+    end.
+      reject { |g| g == :unknown }.
+      map { |g| g == :mostly_male ? :male : g }.
+      map { |g| g == :mostly_female ? :female : g }
+
+    if gendered_names.all?(:male)
+      return "M"
+    elsif gendered_names.all?(:female)
+      return "F"
+    end
+  end
+
+  def self.gender_for_name(name)
+    OVERRIDES[name.downcase] || GENDER_DETECTOR.get_gender(name)
+  end
+end
 
 class String
   def titleize
@@ -55,7 +84,7 @@ class GedcomRenderer
 end
 
 class DateAndPlace
-  attr_reader :year, :month, :day, :date, :place
+  attr_reader :year, :month, :day, :date, :age, :place
 
   def initialize(line)
     parse_line(line)
@@ -70,6 +99,8 @@ class DateAndPlace
       else
         gedcom << "2 DATE #{year}"
       end
+    elsif age
+      gedcom << "2 AGE #{age}"
     end
 
     if place
@@ -91,6 +122,8 @@ class DateAndPlace
       @month = date.strftime("%b").upcase
     when /\d{4}/
       @year = line.to_i
+    when /in infancy/
+      @age = "INFANT"
     when /^$/
       # NOP
     else
@@ -172,6 +205,9 @@ class OutlineParser
         current_spouse = Person.new(line)
         marriage = current_person.add_marriage(marriage_line, current_spouse)
         if marriage_id
+          if families.has_key?(marriage_id)
+            raise "Re-used marriage ID #{marriage_id}"
+          end
           families[marriage_id] = marriage
         end
         marriage_line = nil
@@ -278,9 +314,9 @@ class Person
     "@I" + id.to_s.rjust(5, "0") + "@"
   end
 
-  # def parent
-  #   child_of&.person
-  # end
+  def parent
+    child_of&.person
+  end
 
   def birth=(line)
     @birth = DateAndPlace.new(line)
@@ -374,15 +410,12 @@ class Person
   end
 
   def determine_gender
-    gendered_names = given_name.split(" ").map do |part|
-      GENDER_DETECTOR.get_gender(part)
-    end.reject { |g| g == :unknown }
+    detected_gender = CustomGenderDetector.get_gender(given_name)
+    if detected_gender
+      return detected_gender
+    end
 
-    if gendered_names.all?(:male)
-      return "M"
-    elsif gendered_names.all?(:female)
-      return "F"
-    elsif marriages.any?
+    if marriages.any?
       married_to = marriages.
         map { |m| m.person == self ? m.spouse : m.person }.
         map(&:gender).
@@ -399,8 +432,6 @@ class Person
 
   def verify_child_of
     return if birth&.date.nil?
-
-    parent = child_of&.person
     return unless parent
     return if parent.marriages.size == 1
 

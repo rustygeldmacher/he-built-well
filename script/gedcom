@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
-require 'date'
+require "date"
+require "gender_detector"
+
+GENDER_DETECTOR = GenderDetector.new(unknown_value: :unknown)
 
 class String
   def titleize
@@ -7,8 +10,52 @@ class String
   end
 end
 
+class GedcomRenderer
+  HEADER = [
+    "0 HEAD",
+    "1 GEDC",
+    "2 VERS 5.5.1",
+    "2 FORM LINEAGE-LINKED",
+    "1 DEST ANY",
+    "1 CHAR UTF-8",
+    "1 PLAC",
+    "2 FORM Hamlet, City, City_Code, County, State, Country"
+  ]
+
+  attr_reader :root
+
+  def initialize(root)
+    @root = root
+  end
+
+  def to_s
+    puts HEADER.join("\n")
+    print_gedcom(root)
+    puts "0 TRLR"
+  end
+
+  private
+
+  def print_gedcom(person)
+    puts person.to_gedcom.join("\n")
+
+    # Pass 1: Spouse and family info
+    person.marriages.each do |family|
+      puts family.spouse.to_gedcom
+      puts family.to_gedcom
+    end
+
+    # Pass 2: Children's sub-trees
+    person.marriages.each do |family|
+      family.children.each do |child|
+        print_gedcom(child)
+      end
+    end
+  end
+end
+
 class DateAndPlace
-  attr_reader :year, :month, :day, :place
+  attr_reader :year, :month, :day, :date, :place
 
   def initialize(line)
     parse_line(line)
@@ -39,8 +86,9 @@ class DateAndPlace
     case line
     when /^(\d+) ([a-zA-Z.]+), (\d{4})(, (.*))?/
       @day, @month, @year, @place = $1, $2, $3, $5
+      @date = Date.parse("#{day} #{month}, #{year}")
       # Format the month as uppercase abbreviation
-      @month = Date.parse("#{day} #{month}, #{year}").strftime("%b").upcase
+      @month = date.strftime("%b").upcase
     when /\d{4}/
       @year = line.to_i
     when /^$/
@@ -51,14 +99,158 @@ class DateAndPlace
   end
 end
 
-class Person
-  @@next_id = 0
+class OutlineParser
+  attr_reader :file
 
-  attr_accessor :id, :given_name, :surname, :birth, :death
+  def initialize(file)
+    @file = file
+  end
+
+  def parse
+    lines = File.readlines(file)
+    root = nil
+    current_depth = 0
+    current_parent = nil
+    current_person = nil
+    marriage_line = nil
+    current_spouse = nil
+
+    lines.each_with_index do |line, i|
+      line_no = i + 1
+      line = line.strip
+
+      next if line =~ /^\s*$/
+
+      # Short circuit for now while we get the initial parsing correct
+      break if line.start_with?("===")
+      next if line.start_with?("=")
+
+      if match = line.match(/^(\*+) (.*)/)
+        depth = match[1].size
+        name = match[2]
+        current_spouse = nil
+
+        if current_depth == 0
+          current_person = Person.new(name)
+          root = current_person
+        elsif depth == current_depth
+          # Sibling
+          current_person = Person.new(name)
+          current_parent.add_child(current_person)
+        elsif depth > current_depth
+          # Child
+          current_parent = current_person
+          current_person = Person.new(name)
+          current_parent.add_child(current_person)
+        elsif depth < current_depth
+          # Back
+          (current_depth - depth).times do
+            current_parent = current_parent.parent
+          end
+          current_person = Person.new(name)
+          current_parent.add_child(current_person)
+        end
+
+        current_depth = depth
+        next
+      end
+
+      if marriage_line
+        current_spouse = Person.new(line)
+        current_person.add_marriage(marriage_line, current_spouse)
+        marriage_line = false
+        next
+      end
+
+      if line.start_with?("m:")
+        marriage_line = line
+        next
+      end
+
+      if line.start_with?("b:")
+        person = current_spouse || current_person
+        person.birth = line
+        next
+      end
+
+      if line.start_with?("d:")
+        person = current_spouse || current_person
+        person.death = line
+        next
+      end
+
+      # Should only happen if we don't recognize the line
+      puts line
+    rescue => e
+      puts "Cannot parse #{line}"
+      puts e
+      exit
+    end
+
+    root
+  end
+end
+
+class Family
+  @@next_id = 1
+
+  # "person" is the person in the family tree
+  # "spouse" is the person under the marriage line
+  attr_accessor :id, :marriage, :person, :spouse, :children
+
+  def initialize(marriage_line, person:, spouse:)
+    @id = @@next_id
+    @@next_id += 1
+    @person = person
+    @spouse = spouse
+    if marriage_line
+      @marriage = DateAndPlace.new(marriage_line)
+    end
+    @children = []
+  end
+
+  def gedcom_id
+    "@F" + id.to_s.rjust(5, "0") + "@"
+  end
+
+  def to_gedcom
+    gedcom = ["0 #{gedcom_id} FAM"]
+
+    if person.gender == "M"
+      gedcom << [
+        "1 HUSB #{person.gedcom_id}",
+        "1 WIFE #{spouse.gedcom_id}"
+      ]
+    else
+      gedcom << [
+        "1 HUSB #{spouse.gedcom_id}",
+        "1 WIFE #{person.gedcom_id}"
+      ]
+    end
+
+    if marriage
+      gedcom += marriage.to_gedcom("MARR")
+    end
+
+    children.each do |child|
+      gedcom << "1 CHIL #{child.gedcom_id}"
+    end
+
+    gedcom
+  end
+end
+
+class Person
+  @@next_id = 1
+
+  attr_reader :id, :given_name, :surname, :birth, :death, :stillborn, :marriages
+  attr_accessor :child_of
 
   def initialize(name)
     @id = @@next_id
     @@next_id += 1
+    @marriages = []
+    @stillborn = false
     parse_name(name)
   end
 
@@ -78,20 +270,61 @@ class Person
     @death = DateAndPlace.new(line)
   end
 
+  def gender
+    @gender ||= determine_gender
+  end
+
+  def add_marriage(marriage_line, spouse)
+    marriage = Family.new(marriage_line, person: self, spouse: spouse)
+    marriages << marriage
+    spouse.marriages << marriage
+    marriage
+  end
+
+  def add_child(child)
+    if marriages.empty?
+      raise "Tried adding a child without a marriage"
+    else
+      # TODO: Find the correct marriage if there is more than one
+      family = marriages.first
+      family.children << child
+      child.child_of = family
+    end
+  end
+
   def to_gedcom
-    gedcom = [
-      "0 #{gedcom_id} INDI",
-      "1 NAME #{given_name} /#{surname}/",
-      "2 GIVN #{given_name}",
-      "2 SURN #{surname}"
-    ]
+    gedcom = ["0 #{gedcom_id} INDI"]
+
+    unless stillborn
+      gedcom += [
+        "1 NAME #{given_name} /#{surname}/",
+        "2 GIVN #{given_name}",
+        "2 SURN #{surname}"
+      ]
+    end
+
+    gedcom << "1 SEX #{gender}"
 
     if birth
       gedcom += birth.to_gedcom("BIRT")
+      if stillborn
+        gedcom << "2 TYPE Stillborn"
+      end
     end
 
     if death
       gedcom += death.to_gedcom("DEAT")
+      if stillborn
+        gedcom << "2 AGE STILLBORN"
+      end
+    end
+
+    if child_of
+      gedcom << "1 FAMC #{child_of.gedcom_id}"
+    end
+
+    marriages.each do |family|
+      gedcom << "1 FAMS #{family.gedcom_id}"
     end
 
     gedcom
@@ -100,154 +333,49 @@ class Person
   private
 
   def parse_name(name)
-    name_parts = name.split(" ")
+    if name =~ /still ?born/i
+      @stillborn = true
+      if name =~ /daughter/i
+        @gender = "F"
+      elsif name =~ /son/i
+        @gender = "M"
+      end
+    end
+
+    name_parts = name.upcase.split(" ")
     if name_parts[-2] == "MC"
       @given_name = name_parts[0..-3].join(" ").titleize
-      @surname = name_parts[-2..-1].join(" ").upcase
+      @surname = name_parts[-2..-1].join(" ")
     else
       @given_name = name_parts[0..-2].join(" ").titleize
-      @surname = name_parts.last.upcase
+      @surname = name_parts.last
     end
   end
-end
 
-def parse_date(date_str)
-  # Try to parse various date formats
-  begin
-    date = Date.parse(date_str.strip)
-    return date.strftime("%-d %b %Y")
-  rescue
-    # If parsing fails, return the original string
-    return date_str.strip
+  def determine_gender
+    gendered_names = given_name.split(" ").map do |part|
+      GENDER_DETECTOR.get_gender(part)
+    end.reject { |g| g == :unknown }
+
+    if gendered_names.all?(:male)
+      return "M"
+    elsif gendered_names.all?(:female)
+      return "F"
+    elsif marriages.any?
+      married_to = marriages.
+        map { |m| m.person == self ? m.spouse : m.person }.
+        map(&:gender).
+        uniq
+      if married_to == ["M"]
+        return "F"
+      elsif married_to == ["F"]
+        return "M"
+      end
+    end
+
+    raise "Cannot determine gender: #{given_name}"
   end
 end
 
-lines = File.readlines(ARGV[0])
-people = []
-current_person = nil
-expecting_spouse = false
-
-lines.each_with_index do |line, i|
-  line_no = i + 1
-  line = line.strip
-
-  next if line =~ /^\s*$/
-  break if line.start_with?("===")
-  next if line.start_with?("=")
-
-  if expecting_spouse
-    current_person = Person.new(line)
-    people << current_person
-    expecting_spouse = false
-    next
-  end
-
-  if line.start_with?("m:")
-    expecting_spouse = true
-    # line_to_date_and_place(line)
-    next
-  end
-
-  if line.start_with?("*")
-    name = line.gsub(/^\*+ /, '')
-    current_person = Person.new(name)
-    people << current_person
-    next
-  end
-
-  if line.start_with?("b:")
-    current_person.birth = line
-    next
-  end
-
-  if line.start_with?("d:")
-    current_person.death = line
-    next
-  end
-
-  # Should only happen if we don't recognize the line
-  puts line
-rescue => e
-  puts "Cannot parse #{line}"
-  puts e
-  exit
-end
-
-people.each { |p| puts p.to_gedcom.join("\n") }
-exit
-
-def line_to_gedcom_date_and_place(line)
-  line = line.gsub(/^[mbd]: /, '')
-  parts = line.split(",").map(&:strip)
-  date = parts[0..1].join(", ")
-  place = parts[2..-1].join(", ")
-  [
-    "2 DATE #{parse_date(date)}",
-    "2 PLAC #{place}"
-  ]
-end
-def convert_to_gedcom(input_text)
-  lines = input_text.strip.split("\n")
-  gedcom = []
-
-  return "Invalid input format" if lines.length < 2
-
-  # Parse the name line
-  name_parts = lines[0].split
-  return "Invalid name format" if name_parts.length < 2
-
-  last_name = name_parts.pop
-  first_middle_names = name_parts.join(" ")
-
-  # Format names for GEDCOM
-  gedcom_first_middle = first_middle_names.split.map(&:capitalize).join(" ")
-  gedcom_last = last_name.upcase
-
-  # Build GEDCOM output
-  gedcom << "1 NAME #{gedcom_first_middle} /#{gedcom_last}/"
-  gedcom << "2 GIVN #{gedcom_first_middle}"
-  gedcom << "2 SURN #{gedcom_last}"
-
-  # Parse birth info
-  birth_line = lines[1]
-  if birth_line.start_with?("b:")
-    gedcom << "1 BIRT"
-    gedcom += line_to_gedcom_date_and_place(birth_line)
-  else
-    return "Invalid birth format"
-  end
-
-  # Add death info if available
-  death_line = lines[2]
-  if death_line && death_line.start_with?("d:")
-    gedcom << "1 DEAT"
-    gedcom += line_to_gedcom_date_and_place(death_line)
-  end
-
-  gedcom.join("\n")
-end
-
-puts "Enter person details in the format:"
-puts "FIRST_NAME MIDDLE_NAME LAST_NAME"
-puts "b: <date of birth>, <place of birth>"
-puts "d: <date of death>, <place of death> (optional)"
-puts "(Press Enter twice to finish)"
-
-lines = []
-loop do
-  line = gets
-  break if line.nil? || line.strip.empty?
-  lines << line.chomp.strip
-end
-
-if lines.length >= 2
-  input_text = lines.join("\n")
-  gedcom_output = convert_to_gedcom(input_text)
-
-  puts "\nGEDCOM Output:"
-  puts "-" * 40
-  puts gedcom_output
-  puts "-" * 40
-else
-  puts "Insufficient input. Please provide at least name and birth information."
-end
+root = OutlineParser.new(ARGV[0]).parse
+puts GedcomRenderer.new(root).to_s

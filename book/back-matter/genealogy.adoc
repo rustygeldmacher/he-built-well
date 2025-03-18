@@ -84,6 +84,7 @@
   b: 27 March, 1865, Fair Haven Township, Illinois
   d: 9 March, 1919, Elgin, Illinois
   m: 9 Nov., 1887, Fair Haven Township, Illinois
+  [[family-EWD-ACG]]
   AUGUST CARL GELDMACHER
   b: 26 May, 1864, Fair Haven Township, Illinois
   d: 19 Sept., 1944, Elgin, Illinois
@@ -95,6 +96,7 @@
   b: 28 Jan., 1869, Fair Haven Township, Illinois
   d: 13 March, 1961, Sterling, Illinois
   m: 24 Feb., 1904, Fair Haven Township, Illinois
+  [[family-HJD-KK]]
   KATHERINE KEIL
   b: 17 Oct., 1879, Fair Haven Township, Illinois
   d: 20 Aug., 1952, Chadwick, Illinois
@@ -103,6 +105,7 @@
   b: 15 Aug., 1870, Fair Haven Township, Illinois
   d: 15 March, 1964, Spring Valley, Minnesota
   m: 10 July, 1894, Mt. Carroll, Illinois
+  [[family-WCD-AKS]]
   ANNA KATHRYN SCHREINER
   b: 18 Feb., 1874, Mt. Carroll, Illinois
   d: 11 Nov., 1948, Waterloo, Iowa
@@ -729,7 +732,7 @@
 *** MARK LOUIS STRAUB
     b: 20 Aug., 1967, Morrison, Illinois
 
-[[stop]]
+[[root-family-EWD-ACG]]
 ==== Descendants of August C. and Elisa W. Geldmacher
 
 * WALTER CARL GELDMACHER
@@ -1030,6 +1033,7 @@
 *** ANN MARIE JENNINGS
     b: 21 Feb., 1960, Norwalk, Ohio
 
+[[root-family-HJD-KK]]
 ==== Descendants of Henry Jacob and Katherine Daehler
 
 * LAURA MARIA DAEHLER
@@ -1172,6 +1176,7 @@
    SUSAN ELAINE METZ
    b: 14 Oct., 1954, Sterling, Illinois
 
+[[root-family-WCD-AKS]]
 ==== Descendants of William C. and Anna K. Daehler
 
 * GOLDA LOUISE DAEHLER
@@ -1537,6 +1542,7 @@
   b: 27 Oct., 1914, Spring Valley, Minnesota
   d: 13 April, 1937, Waterloo, Iowa
 
+[[stop]]
 ==== Descendants of Charles J. and Anna Maria Queckboerner
 
 * LAURA QUECKBOERNER

@@ -7,7 +7,12 @@ module CustomGenderDetector
   OVERRIDES = {
     "kay" => :female,
     "jo" => :female,
-    "stacy lee" => :female
+    "stacy lee" => :female,
+    "jay lindsey" => :male,
+    "kris ann" => :female,
+    "robert lynn" => :male,
+    "richard lynn" => :male,
+    "ricky jae" => :male,
   }
 
   def self.get_gender(given_name)
@@ -236,6 +241,7 @@ class OutlineParser
     rescue => e
       puts "Cannot parse line @ #{line_no}: #{line}"
       puts e
+      puts e.backtrace
       exit
     end
 
@@ -435,11 +441,16 @@ class Person
     return unless parent
     return if parent.marriages.size == 1
 
-    family = parent.marriages.
-      reject { |f| f.marriage.nil? }.
+    checkable_marriages = parent.marriages.
+      reject { |f| f.marriage.nil? || f.marriage.date.nil? }.
       sort_by { |f| f.marriage.date }.
-      reverse.
-      find { |f| birth.date >= f.marriage.date }
+      reverse
+
+    family = checkable_marriages.find { |f| birth.date >= f.marriage.date }
+
+    if family.nil?
+      family = (parent.marriages - checkable_marriages).first
+    end
 
     if family != child_of
       child_of.children.delete(self)

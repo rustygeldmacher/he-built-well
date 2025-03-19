@@ -3,8 +3,11 @@
 :imagesdir: images
 :toc: macro
 :sectnums:
+:pagenums:
 :max-width: 45em
+:pdf-theme: pdf-theme.yml
 
+[.nonfacing]
 image::cover.jpg[]
 <<<
 

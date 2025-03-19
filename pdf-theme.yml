@@ -1,0 +1,177 @@
+extends: default
+# Basic page setup
+page:
+  layout: portrait
+  margin: [2.5cm, 2cm, 2cm, 2cm]
+  size: Letter
+  background-color: #FFFFFF
+
+# Font configuration
+font:
+  catalog:
+    # Using built-in fonts that come with Asciidoctor-PDF
+    merge: true
+    # Noto Serif is a good replacement for Times New Roman
+    Noto Serif:
+      normal: GEM_FONTS_DIR/notoserif-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notoserif-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notoserif-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notoserif-bold_italic-subset.ttf
+    # Noto Sans is a good replacement for Helvetica
+    Noto Sans:
+      normal: GEM_FONTS_DIR/notosans-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notosans-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notosans-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notosans-bold_italic-subset.ttf
+
+  # Default font family settings
+  family:
+    text: Noto Serif
+    heading: Noto Serif
+    abstract: Noto Serif
+    link: Noto Serif
+    literal: Noto Sans
+    caption: Noto Serif
+  # Font sizes
+  size:
+    text: 11
+    code: 9
+    heading:
+      h1: 24
+      h2: 18
+      h3: 16
+      h4: 14
+      h5: 12
+      h6: 11
+
+# Heading styles
+heading:
+  font-color: #2C3E50
+  font-style: normal
+  text-transform: none
+  margin-top: 15
+  margin-bottom: 10
+  h1-align: center
+  h2-align: left
+
+# Title page
+title-page:
+  align: center
+  # logo:
+  #   image: image:logo.png[width=60%]
+  #   top: 10%
+  title:
+    top: 40%
+    font-size: 28
+    font-style: bold
+    font-color: #2C3E50
+  subtitle:
+    font-size: 18
+    font-style: italic
+    font-color: #7F8C8D
+  authors:
+    font-size: 14
+    font-color: #2C3E50
+    content: "{author}"
+  revision:
+    font-size: 10
+    font-color: #7F8C8D
+
+# Table of contents
+toc:
+  dot-leader:
+    content: ". "
+    font-color: #BDC3C7
+  indent: 15
+  line-height: 1.4
+
+# Block styles
+block:
+  margin-top: 0
+  margin-bottom: 12
+  caption:
+    font-color: #7F8C8D
+    font-size: 10
+    font-style: italic
+
+# Quote block styling
+quote:
+  font-size: 10.5
+  font-style: italic
+  border-left-width: 3
+  border-left-color: #BDC3C7
+  padding: [0, 12, 0, 12]
+  cite:
+    font-size: 9
+    font-color: #7F8C8D
+
+# Sidebar styling
+sidebar:
+  background-color: #F5F5F5
+  border-color: #BDC3C7
+  border-radius: 3
+
+# Admonition blocks
+admonition:
+  icon:
+    note:
+      stroke-color: #3498DB
+    tip:
+      stroke-color: #27AE60
+    warning:
+      stroke-color: #F39C12
+    caution:
+      stroke-color: #E74C3C
+    important:
+      stroke-color: #8E44AD
+  label:
+    font-color: #2C3E50
+
+# Code blocks
+code:
+  font-size: 9
+  background-color: #F5F5F5
+  border-color: #BDC3C7
+  border-radius: 3
+
+# Table styling
+table:
+  background-color: #FFFFFF
+  head:
+    background-color: #EEEEEE
+    font-color: #2C3E50
+    font-style: bold
+  body:
+    stripe-background-color: #F9F9F9
+  foot:
+    background-color: #EEEEEE
+    font-style: italic
+  border-color: #BDC3C7
+  grid-color: #DDDDDD
+
+# Footer styling
+footer:
+  height: 0.75in
+  padding: [8, 0, 0, 0]
+  line-height: 1.2
+  font-color: #7F8C8D
+  border-color: #BDC3C7
+  recto:
+    left:
+      content: '*{page-number}* | {document-title}'
+  verso:
+    left:
+      content: '*{page-number}* | {document-title}'
+
+# Page numbering
+page:
+  numbering:
+    start-at: after-toc
+
+# Link styling
+link:
+  font-color: #3498DB
+
+# List styling
+list:
+  indent: 8

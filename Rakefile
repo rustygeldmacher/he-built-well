@@ -22,9 +22,6 @@ task :pdf => [OUTPUT_DIR, TEMP_DIR] do
   outfile = "#{OUTPUT_DIR}/#{BOOK_TITLE}.pdf"
   puts "Building PDF..."
 
-  mkdir_p "#{TEMP_DIR}/images"
-  cp_r Dir.glob("images/*"), "#{TEMP_DIR}/images"
-
   sh "bundle exec asciidoctor --require asciidoctor-pdf --backend pdf --out-file \"#{outfile}\" #{ROOT_ADOC} --trace"
 
   puts "PDF created at #{outfile}"
@@ -36,7 +33,7 @@ task :html => [OUTPUT_DIR] do
   puts "Building HTML..."
 
   mkdir_p "#{OUTPUT_DIR}/images"
-  cp_r Dir.glob("images/*"), "#{OUTPUT_DIR}/images"
+  cp_r Dir.glob("book/images/*"), "#{OUTPUT_DIR}/images"
 
   sh "bundle exec asciidoctor --backend html5 --out-file \"#{outfile}\" --attribute toc=left #{ROOT_ADOC}"
 

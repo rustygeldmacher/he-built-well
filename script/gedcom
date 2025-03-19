@@ -13,6 +13,8 @@ module CustomGenderDetector
     "robert lynn" => :male,
     "richard lynn" => :male,
     "ricky jae" => :male,
+    "lonnie william" => :male,
+    "mary lou" => :female,
   }
 
   def self.get_gender(given_name)

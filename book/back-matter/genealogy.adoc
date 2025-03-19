@@ -30,6 +30,7 @@
    b: 26 May, 1842, Freienseen, Hesse-Darmstadt
    d: 21 Dec., 1907, Fair Haven Township, Illinois
    m: 7 April, 1872, Fair Haven Township, Illinois
+   [[family-LCD-AEH]]
    ANNA ELISA HARTMAN
    b: 20 Feb., 1853, Golzenhein, Hesse-Darmstadt
    d: 20 Dec., 1924, Chadwick, Illinois
@@ -114,6 +115,7 @@
   b: 13 July, 1872, Fair Haven Township, Illinois
   d: 28 April, 1902, Fair Haven Township, Illinois
   m: 17 Jan., 1894, Fair Haven Township, Illinois
+  [[family-AMD-CJQ]]
   CHARLES J. QUECKBOERNER
   b: 3 Aug., 1870, Fair Haven Township, Illinois
   d: 20 Feb., 1948, Fair Haven Township, Illinois
@@ -122,6 +124,7 @@
   b: 5 May, 1874, Fair Haven Township, Illinois
   d: 9 June, 1953, Sterling, Illinois
   m: 10 Feb., 1910, Cherry Grove, Illinois
+  [[family-CJD-HE]]
   HAZEL ETHRIDGE
   b: 27 Nov., 1885, Carroll County, Illinois
   d: 7 May, 1971, Morrison, Illinois
@@ -134,6 +137,7 @@
   b: 10 May, 1878, Fair Haven Township, Illinois
   d: 28 April, 1966, Morrison, Illinois
   m: 5 Feb., 1902, Fair Haven Township, Illinois
+  [[family-ED-CG]]
   CONRAD GEISZ
   b: 12 March, 1872, Fair Haven Township, Illinois
   d: 25 July, 1943, Chadwick, Illinois
@@ -887,7 +891,7 @@
 
 * RICHARD GELDMACHER
   b: 1 April, 1893, Chadwick, Illinois
-  d: 15 June, 19448, Seattle, Washington
+  d: 15 June, 1948, Seattle, Washington
   m: 26 Aug., 1922, Chicago, Illinois
   DOLORES THAYER
   b: 14 Sept., 1903, Chicago, Illinois
@@ -1542,7 +1546,7 @@
   b: 27 Oct., 1914, Spring Valley, Minnesota
   d: 13 April, 1937, Waterloo, Iowa
 
-[[stop]]
+[[root-family-AMD-CJQ]]
 ==== Descendants of Charles J. and Anna Maria Queckboerner
 
 * LAURA QUECKBOERNER
@@ -1594,6 +1598,7 @@
   m: 12 April, 1921
   EDWARD OLSON
 
+[[root-family-CJD-HE]]
 ==== Descendants of Conrad John and Hazel Daehler
 
 * ENGAR DAEHLER
@@ -1953,6 +1958,7 @@
 *** RENEE MARIE DAEHLER
     b: 27 July, 1971
 
+[[root-family-ED-CG]]
 ==== Descendants of Conrad and Emma Geisz
 
 * IRENE MARIE GEISZ
@@ -2050,6 +2056,7 @@
   b: 24 March, 1916, Fair Haven Township, Illinois
   d: 20 Feb., 1917, Fair Haven Township, Illinois
 
+[[root-family-LCD-AEH]]
 === Descendants of Louis C. and Anna E. Daehler
 
 * FERDINAND DAEHLER

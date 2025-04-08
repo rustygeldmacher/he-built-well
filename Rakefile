@@ -1,11 +1,9 @@
-BOOK_TITLE = "He Built Well"
+BOOK_TITLE = "HeBuiltWell"
 OUTPUT_DIR = "output"
-TEMP_DIR = "tmp"
 ROOT_ADOC = "book/index.adoc"
 CSS_FILE = "style.css"
 
 directory OUTPUT_DIR
-directory TEMP_DIR
 
 desc "Build EPUB version of the book"
 task :epub => [OUTPUT_DIR] do
@@ -18,7 +16,7 @@ task :epub => [OUTPUT_DIR] do
 end
 
 desc "Build PDF version of the book"
-task :pdf => [OUTPUT_DIR, TEMP_DIR] do
+task :pdf => [OUTPUT_DIR] do
   outfile = "#{OUTPUT_DIR}/#{BOOK_TITLE}.pdf"
   puts "Building PDF..."
 
@@ -54,9 +52,8 @@ task :default do
   puts "  rake all   # Build all formats"
 end
 
-desc "Clean output and temporary directories"
+desc "Clean output directory"
 task :clean do
   rm_rf OUTPUT_DIR
-  rm_rf TEMP_DIR
-  puts "Cleaned output and temporary directories"
+  puts "Cleaned output directory"
 end

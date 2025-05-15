@@ -1,0 +1,13 @@
+.text-left {
+  float: left;
+}
+
+.text-right {
+  float: right;
+}
+
+.float-group::after {
+  content: "";
+  display: table;
+  clear: both;
+}

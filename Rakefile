@@ -30,6 +30,12 @@ task :html => [OUTPUT_DIR] do
   outfile = "#{OUTPUT_DIR}/#{BOOK_TITLE}.html"
   puts "Building HTML..."
 
+  # Process custom CSS
+  mkdir_p "#{OUTPUT_DIR}/css"
+  asciidoctor_path = `bundle show asciidoctor`.strip
+  cp_r "#{asciidoctor_path}/data/stylesheets/asciidoctor-default.css", "tmp/"
+  `cat tmp/asciidoctor-default.css book/css/custom.css > output/css/styles.css`
+
   mkdir_p "#{OUTPUT_DIR}/images"
   cp_r Dir.glob("book/images/*"), "#{OUTPUT_DIR}/images"
 

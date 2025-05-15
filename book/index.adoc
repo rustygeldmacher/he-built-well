@@ -6,6 +6,9 @@
 :pagenums:
 :max-width: 45em
 :pdf-theme: pdf-theme.yml
+:stylesdir: css
+:stylesheet: styles.css
+:linkcss:
 
 [.nonfacing]
 image::cover.jpg[]

@@ -4,8 +4,8 @@ The world, or I would like to say, the entire
 human race, has a history of which different incidents
 and events of various periods of time have been gathered
 together by intelligent men. These are of certain value
-to posterity if they are written down in their true mean-
-ing and without prejudice. So also a nation; aver vy; oa
+to posterity if they are written down in their true meaning
+and without prejudice. So also a nation; a city; a
 village, yes even the individual human being, has a
 history that could be of importance to his posterity,
 even if it be only to satisfy curiosity.
@@ -17,5 +17,12 @@ autobiography. This means only my personal experiences
 as far as I am able to remember them, for the curiosity
 of my children and grandchildren.
 
-Fair Haven, Illinois
-January 4, 1882 Johann Konrad Daehler
+[.float-group]
+--
+[.text-left]
+Fair Haven, Illinois +
+January 4, 1882
+
+[.text-right]
+Johann Konrad Daehler
+--

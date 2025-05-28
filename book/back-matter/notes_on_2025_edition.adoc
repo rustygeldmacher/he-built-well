@@ -7,5 +7,5 @@ Here's what I've modified:
   by the author
 * Reformatted and fixed some typos in the genealogy
 * Ignored divorce dates in genealogy -- might go back and add later
-* Removed all dashed words at end of lines and combined them
+* Removed all hyphenated words at end of lines and combined them
 * Fixed a few typos and mis-spellings

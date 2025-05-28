@@ -43,6 +43,9 @@ include::chapters/06_experiences_in_america.adoc[]
 = Appendices
 
 [appendix]
+include::back-matter/table_of_measures.adoc[]
+
+[appendix]
 include::back-matter/notes_on_dahler_ancestry.adoc[]
 
 [appendix]

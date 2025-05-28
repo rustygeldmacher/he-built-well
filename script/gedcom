@@ -159,7 +159,7 @@ class OutlineParser
 
     lines.each_with_index do |line, i|
       line_no = i + 1
-      line = line.strip
+      line = line.strip.gsub(/ \+$/, '')
 
       next if line =~ /^\s*$/
       next if line =~ /^=/

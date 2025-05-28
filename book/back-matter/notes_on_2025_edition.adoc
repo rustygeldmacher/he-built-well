@@ -9,3 +9,5 @@ Here's what I've modified:
 * Ignored divorce dates in genealogy -- might go back and add later
 * Removed all hyphenated words at end of lines and combined them
 * Fixed a few typos and mis-spellings
+* "Notes on the Daehler Ancestry" (Appendix B) had Daehler spelled "Dahler" --
+  changes this to the correct spelling

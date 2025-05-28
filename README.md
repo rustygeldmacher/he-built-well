@@ -7,7 +7,7 @@ of Johann Daehler.
 
 First `bundle install`
 
-Then `./build.sh all`
+Then `rake all`
 
 ### References
 

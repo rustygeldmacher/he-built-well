@@ -1,13 +1,64 @@
 == Notes on the 2025 Edition
 
-Here's what I've modified:
+More than a decade ago, I found a printed manuscript on a shelf at my parents'
+house. On the faded blue cover it read "He Built Well". Curious, I opened
+to the first page and there was written in block letters a note from my
+grandfather that read:
+
+[quote]
+--
+Nov 23rd, 1991
+
+To Christopher:
+
+The genealogy is a history of the Johann Daehler family who settled as pioneers
+in northwestern Illinois in 1855.
+
+My grandmother (who I don't remember, as she died 8 months after I was born)
+was a grand-daughter of the narrative writer (Johann Jacob Daehler). My
+grandmother Elisa Wilhelmina Daehler married my father's father, August Geldmacher,
+who I remember well as my only living grand-parent. Page 88 mentions our
+family. You may want to fill in some date for your family.
+
+Love, Dad
+--
+
+Naturally, this was intriguing. I borrowed the manuscript from my parents with
+the intention of reading and creating an electronic copy of it, but it
+eventually lay forgotten under a pile of papers. When we moved recently, I found
+it again and decided it was time to do the project I had been planning on. This
+is the result.
+
+I've taken the manuscript, scanned it, OCR'd it, and laid it out as a book. The
+final product is what you see here: a version of "He Built Well" that can be
+read online, downloaded as a PDF, or loaded onto an e-book reader.
+
+Along the way, I made a few editorial changes, but nothing too big. Mostly it
+was fixing some formatting, the odd typo, and some layout. Here's a complete
+list of what I've changed:
 
 * Rebuilt the table of contents
-* Renamed the original first "preface" to "foreword" since it was not written
-  by the author
-* Reformatted and fixed some typos in the genealogy
-* Ignored divorce dates in genealogy -- might go back and add later
-* Removed all hyphenated words at end of lines and combined them
-* Fixed a few typos and mis-spellings
+* There were originally two prefaces. A preface is usually written by the author
+  as a way to introduce their work. When a preface is written by someone who's
+  not the author, it's called a foreword, so I renamed the first original
+  "preface" to "foreword" since it was not written by the author.
+* Fixed a few typos and mis-spellings in the narrative.
+* Removed all hyphenated words at end of lines and combined them. That way, whatever
+  layout is being used can properly wrap lines when it needs to.
 * "Notes on the Daehler Ancestry" (Appendix B) had Daehler spelled "Dahler" --
-  changes this to the correct spelling
+  I changed this to the spelling used elsewhere in the book since there is no
+  indication that it was ever spelled "Dahler".
+* Reformatted the genealogy section as a set of nested lists, and fixed some typos.
+* Ignored divorce dates in genealogy -- might go back and add later.
+
+To format the book I used [AsciiDoc](https://asciidoc.org/), a really flexible
+text-based format similar to Markdown but way more powerful. AsciiDoc has a
+companion tool called [AsciiDoctor](https://asciidoctor.org/) that lets you
+style and package up the text in a variety of formats. Working with AsciiDoc
+and AsciiDoctor is a breeze, and using it I was able to put together what I
+think is a pretty good representation of this book.
+
+This e-book is an open source project, created with the goal of sharing knowledge
+and inspiring others. The entire source code, including the book content and
+this website, is available on [GitHub](https://github.com/rustygeldmacher/he-built-well).
+I think it forms a pretty good template for use in any publishing project.

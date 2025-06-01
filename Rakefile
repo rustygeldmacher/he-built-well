@@ -31,6 +31,7 @@ task :html => [OUTPUT_DIR] do
   puts "Building HTML..."
 
   # Process custom CSS
+  mkdir_p "tmp"
   mkdir_p "#{OUTPUT_DIR}/css"
   asciidoctor_path = `bundle show asciidoctor`.strip
   cp_r "#{asciidoctor_path}/data/stylesheets/asciidoctor-default.css", "tmp/"
